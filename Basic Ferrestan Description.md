@@ -440,8 +440,8 @@ d
  - ð
  - d after n, l, or h
 
-e
- - e ~ ɛ
+e 
+ -e ~ ɛ
 
 f
  - ɸ ~ f
@@ -452,7 +452,7 @@ h
  - ʃ when proceeded by a t
 
 i
- - i ~ ɪ
+ -i ~ ɪ
 
 j
  - j

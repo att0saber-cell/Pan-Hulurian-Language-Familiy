@@ -523,12 +523,15 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
 
 * Verb Particle Conjugation*
+
 | tense | simple | continuous | 
 |---|---|---|
 | present | u | uj |
 | past | un | ud |
 | future | um | uf |
+
  perfective formed with prefix f- 
+ 
  imperitive formed with prefix ts- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
 
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.

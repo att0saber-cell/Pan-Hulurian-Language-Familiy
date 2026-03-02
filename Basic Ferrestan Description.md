@@ -412,9 +412,9 @@ Nastu- the name of a group of 3 mountains on the shores of a great mountain lake
 
 Das Jelmakne- the name of a geographic location including both a bay and a sound located just outside the bay
 
-Vrenna- the name of a river
+Brenna- the name of a river
 
-Bawodjek ad Vrenna- a high elevation, rather deep valley along the Vrenna, near its headwaters, where the rain shadow of the surrounding mountains allows for a grassland and shrubland to exist within the valley.
+Bawodjek ad Brenna- a high elevation, rather deep valley along the Vrenna, near its headwaters, where the rain shadow of the surrounding mountains allows for a grassland and shrubland to exist within the valley.
 
 Nasdohmu- the name of a town
 
@@ -529,7 +529,7 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
 | past | un | ud |
 | future | um | uf |
  perfective formed with prefix f- 
- imperitive formed with prefix st- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
+ imperitive formed with prefix ts- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
 
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
 
@@ -551,7 +551,7 @@ In my next visit, I intend to fully document the forms of various pronouns
 
 ## Example Texts (translations provided after texts)
 
-Numindau wasintê, jom udest.
+Numindau wasintê, jom u dest.
 By way of the memory keepers, we know. (common way to start a story)
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu

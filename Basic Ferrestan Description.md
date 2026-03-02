@@ -522,7 +522,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
 
-* Verb Particle Conjugation*
+*Verb Particle Conjugation*
 
 | tense | simple | continuous | 
 |---|---|---|

@@ -2,13 +2,13 @@
 
 ## List of Words
 
-duptau- highland
+dubtau- highland
 
 nase- tree
 
 alman- hoodoo or karst spire
 
-sponten- forest (chiefly a large region of woodland)
+sbonten- forest (chiefly a large region of woodland)
 
 ensaje- forest (any place with many trees)
 
@@ -18,9 +18,9 @@ wodjek- valley
 
 sweno- wide
 
-pfolo- a crime, a breach of boundaries, a breach of trust
+bfolo- a crime, a breach of boundaries, a breach of trust
 
-trepfolo- abuse of power, scamming, embezzeling from the community, bribingblask- large, huge, great
+trebfolo- abuse of power, scamming, embezzeling from the community, bribingblask- large, huge, great
 
 durbu- ship
 
@@ -37,7 +37,6 @@ hadi- cloth, garment (esp. undergarment)
 rokki- fur
 
 erkki- plant fibers
-
 
 ment- trousers, leggings
 
@@ -67,7 +66,7 @@ rona- six
 
 hi- seven
 
-erpo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
+erfo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
 
 klobuk- helmet
 
@@ -141,7 +140,7 @@ hamtora- nation
 
 kjaso- door
 
-pfolô- a dishonest person
+bfolô- a dishonest person
 
 nikbe- penguin
 
@@ -343,7 +342,7 @@ hawes- copper
 
 kihle- silver
 
-rakih-gold
+rakis-gold
 
 wesse- bronze
 
@@ -416,6 +415,7 @@ Das Jelmakne- the name of a geographic location including both a bay and a sound
 Vrenna- the name of a river
 
 Bawodjek ad Vrenna- a high elevation, rather deep valley along the Vrenna, near its headwaters, where the rain shadow of the surrounding mountains allows for a grassland and shrubland to exist within the valley.
+
 Nasdohmu- the name of a town
 
 Cernit- the name of the chief town of the speakers of this language.
@@ -425,27 +425,33 @@ Cernit- the name of the chief town of the speakers of this language.
 
 *This is how the Phonology has been recorded (sounds in ipa)*
 
-a-æ
+a- æ
 
-b-b
+b- b
+ - β when preceeding l, r, m, or w
+ - p when preceding a voiceles consonant, or in word final position
 
 c- c͡ɕ
 
-d- ð (d after n, l, or ll)
+d- ð
+ - d after n, l, or h
 
 e- e ~ ɛ
 
 f- ɸ ~ f
+ - p when an intervocalic consonant
 
 h- ɬ
+ - ʃ when proceeded by a t
 
 i- i ~ ɪ
 
 j- j
 
-k- x (k after an s, k, ll, or f, or before a circumflex)
+k- x word initial, word final, and preceeeding a stop (k,t,d,b)
+ - k word final, when the only consonant in a word, and after fricatives (k,s,f,h)
 
-l- ɫ - l
+l- ɫ ~ l
 
 m-m
 
@@ -453,18 +459,14 @@ n-n
 
 o-o ~ ɔ
 
-p- p
-
 r- ɾ ~ ɹ ~ r
-
 
 s-s
 
 t-t
+ -θ when predeeding l or n
 
 u-u
-
-v- β
 
 w- w ~ ʋ
 

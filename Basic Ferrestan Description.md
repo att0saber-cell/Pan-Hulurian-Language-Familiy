@@ -424,32 +424,60 @@ Cernit- the name of the chief town of the speakers of this language.
 ## Phonology
 
 *This is how the Phonology has been recorded (sounds in ipa)*
+
 a-æ
+
 b-b
+
 c- c͡ɕ
+
 d- ð (d after n, l, or ll)
-e- e~ɛ
-f- ɸ~f
+
+e- e ~ ɛ
+
+f- ɸ ~ f
+
 h- ɬ
-i- i~ɪ
+
+i- i ~ ɪ
+
 j- j
+
 k- x (k after an s, k, ll, or f, or before a circumflex)
-l- ɫ-l
+
+l- ɫ - l
+
 m-m
+
 n-n
-o-o~ɔ
+
+o-o ~ ɔ
+
 p- p
-r- ɾ~ɹ~r
+
+r- ɾ ~ ɹ ~ r
+
+
 s-s
+
 t-t
+
 u-u
+
 v- β
-w- w~ʋ
+
+w- w ~ ʋ
+
 ------------------------------------------------------
+
 The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong.
+
 'p' appears to be an allophon of both 'b' and 'f'
+
 ‘v’ appears to be an allophone of b
+
 Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
+
 Dipthongs: aj, oj,ej, uj, au, eu
 
 ## Grammar Summary 

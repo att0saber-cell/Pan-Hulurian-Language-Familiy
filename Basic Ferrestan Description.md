@@ -520,7 +520,15 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | genitive | ad | id | ajd | ojd |
 
 
-Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
+Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
+
+| tense | simple | continuous | 
+|---|---|---|
+| present | u | uj |
+| past | un | ud |
+| future | um | uf |
+| perfective formed with prefix f- |
+| imperitive formed with prefix st- + -we or -ue on the base verb |
 
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
 
@@ -536,7 +544,7 @@ Wisdom could also be conjugated as a sapient noun, to refer to intangible or abs
 
 e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. eh ajdkê, eu wajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os: ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
 
-u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous ub dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
+u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous uf dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
 In my next visit, I intend to fully document the forms of various pronouns
 
 

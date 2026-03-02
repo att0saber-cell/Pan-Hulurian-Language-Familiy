@@ -1,0 +1,487 @@
+# Lanôstoje Field Description
+
+## List of Words
+
+duptau- highland
+
+nase- tree
+
+alman- hoodoo or karst spire
+
+sponten- forest (chiefly a large region of woodland)
+
+ensaje- forest (any place with many trees)
+
+osu- child (of someone), offspring
+
+wodjek- valley
+
+sweno- wide
+
+pfolo- a crime, a breach of boundaries, a breach of trust
+
+trepfolo- abuse of power, scamming, embezzeling from the community, bribingblask- large, huge, great
+
+durbu- ship
+
+krafke- permanent village, fortified place
+
+mlan- tower, stone fort
+
+arfki- cloak, blanket
+
+rafbu- sail
+
+hadi- cloth, garment (esp. undergarment)
+
+rokki- fur
+
+erkki- plant fibers
+
+
+ment- trousers, leggings
+
+mikjek- belt
+
+biha- shirt
+
+arjac- pin (esp for a cloak)
+
+je- this
+
+ewa- that
+
+herbi- ash
+
+ji- one
+
+wine- two
+
+kro- three
+
+bja- four
+
+nefk- five
+
+rona- six
+
+hi- seven
+
+erpo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
+
+klobuk- helmet
+
+sajto- to reason
+
+asinte- memory
+
+udri- wood
+
+ce- I
+
+jom- we
+
+muk- you (singular)
+
+kno- you (plural)
+
+kjan- he/she/it
+
+ika- they
+
+mejma- cause
+
+dest- know
+
+jakemt- war
+
+jare- conflict, quarrel
+
+uto- wind
+
+utone- windy
+
+hel- ford
+
+sekolt- a small settlement
+
+sekle- lake
+
+bul- moo (onomatopoeia)
+
+bulê- cow
+
+ufês- horse
+
+fjajnd- grain (esp wheat)
+
+komos- another type of grain not before seen
+
+necjum- barley
+
+ruski- rye
+
+mosjean- flour
+
+sejkelî- dough
+
+komfti- domesticated species of new genus in the Lamini tribe of the camel family
+
+kom- wild species of new genus in the Lamini tribe of the camel family
+
+fti- hearth, controled fire, what makes a dwelling a home
+
+dohmu- a gorge or steep valley
+
+ja- interjection of dislike, dismay, disgust, displeasure, or frustration
+
+ekto- crowd, club, mob, faction
+
+hamtora- nation
+
+kjaso- door
+
+pfolô- a dishonest person
+
+nikbe- penguin
+
+letra- snow (sp. after a heaver or 'full' snowfall)
+
+le- snow
+
+ktile- melting, hard, or packed snow
+
+kit- ice
+
+kelî- water (esp. fresh)
+
+arub- ocean, seawater
+
+hujo- father
+
+tabort- mother
+
+vrato- child, youth
+
+iruh- sibling, one who is as close as a sibling
+
+woski- cousin, other member of your clan
+
+wisat- a cold wind or current(esp from the west)
+
+krepf- berry
+
+feru- full
+
+sukle- feather
+
+amlujt- letters, their alphabet
+
+kimda- mountian goat
+
+kimftad- domestic sheep/goat
+
+fjobjas- field (esp. terraced)
+
+durand- bark cannoe
+
+kedur- multihulled canoe or ship
+
+kim- mountain
+
+eda- horn
+
+srubnad- shield
+
+bandarjec- armor
+
+it- to speak
+
+besul- steep, high/low root
+
+etka, etak- prosperous, productive, fertile
+
+cafte- to listen, to observe closely, to take notice of
+
+caftê-ruler, leader, administrator
+
+ajnun- completed and recognized deed
+
+jebenkî-mighty
+
+enki- arm
+
+jeb- capable
+
+swenô- a fat person
+
+asintê- one who is tasked with remembering
+
+troskej- bird
+
+dih- free
+
+sĵan- fly
+
+kmere- yam
+
+kedej- newly discovered member of they cypress family, resembles a fir or spruce
+
+tmeto- sky
+
+tomej- cloud
+
+kreska- bread
+
+arna- war leader, ruler
+
+sru- sword
+
+abet- petrel
+
+ukja- type of bird
+
+reja- type of bird
+
+kumkja- type of bird
+
+kune- dog
+
+Anni- God
+
+kloar- albatross
+
+alme- tide
+
+dake- change
+
+mêsto- mist
+
+mês- milk, cloudy water
+
+steo- air, space
+
+stami- to make or produce
+
+ilno- a beautiful (small) object, jewlry, adornment
+
+lanĵo- pine, member of the genus Pinus
+
+isjena- beech
+
+kejd- song, music
+
+jena- smooth
+
+rokas- flower
+
+teta- bed, place to sleep
+
+tjatse- a house or building (esp. made of stone)
+
+kajt- the shorline
+
+kajtse- rocks in the sea, a rocky place along the shore, and unsafe place, trouble
+
+kajtjen- a beach, a safe landing place for canoes or small craft, an underwater sandbar, rest
+
+kajdoh- a deep portion of the coast, an opening or opportunity
+
+mokajn- open ocean, work
+
+koreld- a very beautiful person
+
+ber- reversal, undoing
+
+smilno- a legenday folk, sometimes small, sometimes not (depending on story), sometimes magical, sometimes not (depending on story), usually considered excellent craftsmen and often considered beautiful
+
+mon- distant, hazy
+
+hobne-fear
+
+hja- listen, witness
+
+celko- to acquire, to purchase, to trade for
+
+bralme- time
+
+ker- to make use of
+
+das- a bay or sound
+
+jelmak- Old
+
+sred- most
+
+somren- mountain range
+
+kata- action
+
+jak- life
+
+jan- sapling, teenager
+
+arje- dusk, an end
+
+jekak- serious, a heavy matter, mentally taxing
+
+del- low, fallen
+
+antê- a type of bird
+
+hantomar- string instrument (either made with gut or metal strings, played with fingers)
+
+ktar-guitar
+
+kirtadel- bass
+
+tukum- drum
+
+jelmanse- iron
+
+hawes- copper
+
+kihle- silver
+
+rakih-gold
+
+wesse- bronze
+
+se- rock, stone
+
+jejs- deer
+
+jo- fire
+
+bae- need
+
+delej- deadfall
+
+daband- lid, hat
+
+an- a large, carnivorous mamal sp.
+
+kjedas- a medium sized mountain steam, small river, or brook
+
+kih- bright
+
+daj- wise
+
+bwau- source, spring
+
+obajh- tent, temporary dwelling
+
+jikejk- knot
+
+odaj- mar
+
+amlu- carving
+
+elda- beauty
+
+rjace- point, spike (root of verb to stab/peirce)
+
+isko, siko- a person
+
+dubens- member of a newly discovered genus of Auracariacae, chiefly found in montane and subalpine forests, but also in some lowland temperate rainforests
+
+-du -highland (suffix)
+
+-as -watercourse (suffix)
+
+-ne -adjective former (suffix)
+
+-stol -farm or small settlement (suffix)
+
+-aje -home, homeland (suffix)
+
+-ajn- place of (suffix)
+
+-oje -language (suffix)
+
+-bon -area (suffix)
+
+-(e)ta -people group, nation (suffix)
+
+-(e)nta -member of a people group or nation
+
+Lanôsta- edonym
+
+Almandu- the name of a group of mountain ranges exhibiting steep sides and a limestone karst topography
+
+Nastu- the name of a group of 3 mountains on the shores of a great mountain lake, near Cernit.
+
+Das Jelmakne- the name of a geographic location including both a bay and a sound located just outside the bay
+
+Vrenna- the name of a river
+
+Bawodjek ad Vrenna- a high elevation, rather deep valley along the Vrenna, near its headwaters, where the rain shadow of the surrounding mountains allows for a grassland and shrubland to exist within the valley.
+Nasdohmu- the name of a town
+
+Cernit- the name of the chief town of the speakers of this language.
+
+
+## Phonology
+
+*This is how the Phonology has been recorded (sounds in ipa)*
+a-æ
+b-b
+c- c͡ɕ
+d- ð (d after n, l, or ll)
+e- e~ɛ
+f- ɸ~f
+h- ɬ
+i- i~ɪ
+j- j
+k- x (k after an s, k, ll, or f, or before a circumflex)
+l- ɫ-l
+m-m
+n-n
+o-o~ɔ
+p- p
+r- ɾ~ɹ~r
+s-s
+t-t
+u-u
+v- β
+w- w~ʋ
+------------------------------------------------------
+The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong.
+'p' appears to be an allophon of both 'b' and 'f'
+‘v’ appears to be an allophone of b
+Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
+Dipthongs: aj, oj,ej, uj, au, eu
+
+## Grammar Summary 
+
+*provided by a linguistics amateur who was the first to describe the language*
+
+Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
+
+Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
+
+The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
+
+This is as much as I can describe of the grammar. I am not an expert in this field, and one should be sent in due time to fully describe this fascinating language.
+
+Conjugation of root /daj/ -meaning wise- with an example preposition
+
+daj- wise adj (often used adverbially). Also seen in names or as a particle or interjection.
+
+i dajke -tangible, or written wisdom; plur. oj dajke; acc. î dajke, ojs dajke; dat. ik dajke, ojk dajke; gen. id dajke, ojd dajke; ex. preposition prefix os- (meaning among) osi dajke, osoj dajke; def. forms a dajke (sing), aj dajke (plur); as dajke, ojs dajke; ak dajke, ojs dajke; ad dajke, oj dajke;
+
+Wisdom could also be conjugated as a sapient noun, to refer to intangible or abstract wisdom, 
+
+e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. ell ajdkê, eull ajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
+
+u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous ub dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
+In my next visit, I intend to fully document the forms of various pronouns
+
+
+## Example Texts (translations provided after texts)
+
+Numindau wasintê, jom udest.
+By way of the memory keepers, we know. (common way to start a story)
+
+Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
+Listen, I have bought time. Now make use of it.

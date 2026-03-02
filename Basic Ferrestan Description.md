@@ -425,58 +425,73 @@ Cernit- the name of the chief town of the speakers of this language.
 
 *This is how the Phonology has been recorded (sounds in ipa)*
 
-a- æ
+a
+ -æ
 
-b- b
+b
+ - b
  - β when preceeding l, r, m, or w
  - p when preceding a voiceles consonant, or in word final position
 
-c- c͡ɕ
+c
+ -c͡ɕ
 
-d- ð
+d
+ - ð
  - d after n, l, or h
 
-e- e ~ ɛ
+e
+ - e ~ ɛ
 
-f- ɸ ~ f
+f
+ - ɸ ~ f
  - p when an intervocalic consonant
 
-h- ɬ
+h
+ - ɬ
  - ʃ when proceeded by a t
 
-i- i ~ ɪ
+i
+ - i ~ ɪ
 
-j- j
+j
+ - j
 
-k- x word initial, word final, and preceeeding a stop (k,t,d,b)
+k
+ - x word initial, word final, and preceeeding a stop (k,t,d,b)
  - k word final, when the only consonant in a word, and after fricatives (k,s,f,h)
 
-l- ɫ ~ l
+l
+ - ɫ ~ l
 
-m-m
+m
+ -m
 
-n-n
+n
+ -n
 
-o-o ~ ɔ
+o
+ -o ~ ɔ
 
-r- ɾ ~ ɹ ~ r
+r
+ - ɾ ~ ɹ ~ r
 
-s-s
+s
+ -s
 
-t-t
+t
+ -t
  -θ when predeeding l or n
 
-u-u
+u
+ -u
 
-w- w ~ ʋ
+w
+ - w ~ ʋ
 
 ------------------------------------------------------
 
-The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong.
-
-'p' appears to be an allophon of both 'b' and 'f'
-
-‘v’ appears to be an allophone of b
+The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong. The circumflex may be placed over a vowel or a j.
 
 Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
 
@@ -488,21 +503,38 @@ Dipthongs: aj, oj,ej, uj, au, eu
 
 Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
 
+*Animate Article Declension*
+| case | definite singular | indefinite singular | definite plural | indefinite plural |
+|---|---|---|---|---|
+| nominative | o | e | au | eu |
+| accusative | os | es | au | eus |
+| dative | os | eh | aus | eu w- |
+| genitive | ot | en | aute | eun |
+
+*Inamimate Article Declension*
+| case | definite singular | indefinite singular | definite plural | indefinite plural |
+|---|---|---|---|---|
+| nominative | a | i | aj | oj |
+| accusative | ats | î | â | ojts |
+| dative | ak | ik | ojs | ojk |
+| genitive | ad | id | ajd | ojd |
+
+
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
 
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
 
 This is as much as I can describe of the grammar. I am not an expert in this field, and one should be sent in due time to fully describe this fascinating language.
 
-Conjugation of root /daj/ -meaning wise- with an example preposition
+# Conjugation of root /daj/ -meaning wise- with an example preposition
 
 daj- wise adj (often used adverbially). Also seen in names or as a particle or interjection.
 
-i dajke -tangible, or written wisdom; plur. oj dajke; acc. î dajke, ojs dajke; dat. ik dajke, ojk dajke; gen. id dajke, ojd dajke; ex. preposition prefix os- (meaning among) osi dajke, osoj dajke; def. forms a dajke (sing), aj dajke (plur); as dajke, ojs dajke; ak dajke, ojs dajke; ad dajke, oj dajke;
+i dajke -tangible, or written wisdom; plur. oj dajke; acc. î dajke, ojts dajke; dat. ik dajke, ojk dajke; gen. id dajke, ojd dajke; ex. preposition prefix os- (meaning among) osi dajke, osoj dajke; def. forms a dajke (sing), aj dajke (plur); ats dajke, â dajke; ak dajke, ojs dajke; ad dajke, ajd dajke;
 
 Wisdom could also be conjugated as a sapient noun, to refer to intangible or abstract wisdom, 
 
-e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. ell ajdkê, eull ajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
+e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. eh ajdkê, eu wajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os: ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
 
 u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous ub dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
 In my next visit, I intend to fully document the forms of various pronouns

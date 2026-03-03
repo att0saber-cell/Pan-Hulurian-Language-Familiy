@@ -839,7 +839,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 |---|---|---|---|---|
 | nominative | a | i | aj | oj |
 | accusative | ats | î | â | ojts |
-| dative | ak | ik | ojs | ojk |
+| dative | ak | il | ojs | ojk |
 | genitive | ad | id | ajd | ojd |
 
 *First Person Pronoun Declension*
@@ -860,10 +860,23 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | comitative | kmukje | knoki |
 | genitive | musk | knosê |
 
-*Thrid Person Pronound Declensions*
-| case | singular | plural | <animate forms
+*Thrid Person Pronound Declensions (animate)*
+| case | singular | plural | 
 |---|---|---|
+| ergative | kjan | ika |
+| absolutive | kinast | kjasti |
+| accusative | kjanwo | ikau |
+| comitative | kjane | ikau |
+| genitive | kjans | ikâ |
 
+*Thrid Person Pronound Declensions (inanimate)*
+| case | singular | plural | 
+|---|---|---|
+| nominative | eri | meroj |
+| accusative | erî | mrojts |
+| dative | rik | erojk |
+| genitive | mrid | mrojd |
+| locative | emir | mroli |
 
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
 

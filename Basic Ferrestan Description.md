@@ -351,7 +351,7 @@ hujo- father
 
 tabort- mother
 
-vrato- child, youth
+brato- child, youth
 
 iruh- sibling, one who is as close as a sibling
 
@@ -601,7 +601,7 @@ kroskwe- wife
 
 kordu- husband
 
-krojsko- spouse
+krojsko- mariage
 
 blumco- louse, flea
 

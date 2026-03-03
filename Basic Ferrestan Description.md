@@ -94,7 +94,7 @@ dest- know
 
 jakemt- war
 
-jare- conflict, quarrel
+jare- conflict, quarrel, fight
 
 uto- wind
 
@@ -150,7 +150,7 @@ le- snow
 
 ktile- melting, hard, or packed snow
 
-kit- ice
+kit- ice, freeze
 
 kelî- water (esp. fresh)
 
@@ -464,9 +464,219 @@ eta- mouth
 
 ebĵe- tooth
 
+doje- toungue
 
+naki- finger
 
-bilbo- nose
+arist- foot
+
+sitre- leg
+
+ktutu- knee
+
+kmortu- hand
+
+nakbi- wing
+
+kmat- belly
+
+sokmat- guts
+
+hejk- neck
+
+ersi- back
+
+trima- breast, chest
+
+kobluj- heart
+
+kmeum- liver
+
+rokla- eat
+
+jun- drink
+
+jart- bite
+
+lafje- suck, stick, inhale
+
+sweld- die
+
+ura- to spit, to fire a firearm or blowgun
+
+djak- to vomit, pour
+
+bwako- to blow, to inspire
+
+uk- to breathe
+
+face- to die
+
+afbe- to kill
+
+pristo- to hunt, to pursue, to search for
+
+fjako- laugh
+
+te- sleep
+
+cerje- see
+
+amba- hear
+
+bje- think
+
+kanje- smell
+
+werto- to hit, strike
+
+skjed- cut
+
+frotwa- spit
+
+jemtaul- scratch
+
+ju- dig
+
+iske- swim
+
+bije- walk
+
+alfeh- lie down, recline
+
+odme- member of the Podocarp family
+
+kwanic- cypress sp.
+
+sanluj- Auracaria sp.
+
+panke- Wollemia sp.
+
+sjeln- another kind of Podocarp
+
+broljer- sit
+
+cujn- another group of Pinus sp., white pine
+
+brudla- Eucalyptus sp.
+
+kmakem- Sciadopityaceae sp.
+
+jik- stand
+
+ljah- to turn, alter one's course
+
+deje- give
+
+firôs- squeeze
+
+berotni- rub
+
+kîlsbert- wash
+
+homan- pull
+
+arban- push
+
+sletsa- throw
+
+krobu- to tie, lash, unite
+
+di- sew
+
+atek- count, number
+
+brabot- play
+
+dur- float
+
+sejas- flow
+
+euno- swell
+
+nar- sun
+
+iknu- moon
+
+itêns- star
+
+tah- rain
+
+kîsjas- river
+
+suneski- sea
+
+elrud- salt
+
+sestrits- sand
+
+estâ- dust
+
+almeko- ground, earth, soil
+
+mjon- smoke
+
+rohekba- path, road, route, habit
+
+fruhle- orange
+
+kmid- red
+
+rauto- yellow
+
+afcer- green
+
+lafec- dark green
+
+elmo- blue
+
+elam- light purple, pink
+
+krodwi- deep purple
+
+heska- white
+
+sothojd- black
+
+ihau- night
+
+ibwan- day
+
+klodmoj- warm
+
+stolkmodi- cold
+
+jelm- story
+
+rjot, reto- new
+
+inna- good
+
+eklom- bad
+
+dredej- rotten
+
+amatne- dirty, stained
+
+limkabo- straight
+
+tôsro- round
+
+skel- wet
+
+steske- dry
+
+esti- true, correct, honest
+
+dorle- near, well defined, apparant
+
+ajbe- right (direction)
+
+rabnat- left (direction)
+
+man- and
+
+alati- name
 
 delej- deadfall
 

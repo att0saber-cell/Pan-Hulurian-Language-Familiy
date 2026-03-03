@@ -500,8 +500,6 @@ jart- bite
 
 lafje- suck, stick, inhale
 
-sweld- die
-
 ura- to spit, to fire a firearm or blowgun
 
 djak- to vomit, pour
@@ -530,7 +528,7 @@ kanje- smell
 
 werto- to hit, strike
 
-skjed- cut
+siked- cut
 
 frotwa- spit
 

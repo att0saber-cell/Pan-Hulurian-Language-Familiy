@@ -104,9 +104,9 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | case | singular | plural |
 |---|---|---|
 | ergative | ce/ceseu | jom |
-| absolutive | cest | jojm |
+| absolutive* | cest | jojm |
 | accusative | co | jom |
-| comitative | ceki | jomje |
+| comitative** | ceki | jomje |
 | genitive | ces | jomê |
 
 *Second Person Pronoun Declension*
@@ -135,6 +135,9 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | dative | rik | erojk |
 | genitive | mrid | mrojd |
 | locative | emir | mroli |
+
+*The absolutive case fills the role of the Dative in animate nous
+** comitative case fills the role of the predicate nominal and predicate adjective expressions
 
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
 

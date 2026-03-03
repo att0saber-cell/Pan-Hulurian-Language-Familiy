@@ -1,5 +1,5 @@
 
-## Phonology
+# Phonology
 
 *This is how the Phonology has been recorded (sounds in ipa)*
 
@@ -74,7 +74,7 @@ Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
 
 Dipthongs: aj, oj,ej, uj, au, eu
 
-## Grammar Summary 
+# Grammar Summary 
 
 *provided by a linguistics amateur who was the first to describe the language*
 
@@ -181,7 +181,7 @@ u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous u
 In my next visit, I intend to fully document the forms of various pronouns
 
 
-## Example Texts (translations provided after texts)
+# Example Texts (translations provided after texts)
 
 Numindoms asintê, jom u dest.
 By way of the memory keepers, we know. (common way to start a story)
@@ -190,7 +190,7 @@ Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
 Listen, I have bought time. Now make use of it.
 
 
-## List of Words
+# Lexicon
 
 dubtau- highland
 

@@ -830,7 +830,8 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 |---|---|---|---|---|
 | nominative | o | e | au | eu |
 | accusative | os | es | au | eus |
-| dative | os | eh | aus | eu w- |
+| dative | os | eh | aus | eu w(e)- |
+| comitative | oms | oms | aulste | emsk 
 | genitive | ot | en | aute | eun |
 
 *Inamimate Article Declension*
@@ -840,6 +841,28 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | accusative | ats | î | â | ojts |
 | dative | ak | ik | ojs | ojk |
 | genitive | ad | id | ajd | ojd |
+
+*First Person Pronoun Declension*
+| case | singular | plural |
+|---|---|---|
+| ergative | ce/ceseu | jom |
+| absolutive | cest | jojm |
+| accusative | co | jom |
+| comitative | ceki | jomje |
+| genitive | ces | jomê |
+
+*Second Person Pronoun Declension*
+| case | singular | plural |
+|---|---|---|
+| ergative | muk | kno |
+| absolutive | kmusti | skanti |
+| accusative | mukwo | kanwo |
+| comitative | kmukje | knoki |
+| genitive | musk | knosê |
+
+*Thrid Person Pronound Declensions*
+| case | singular | plural | <animate forms
+|---|---|---|
 
 
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
@@ -876,7 +899,7 @@ In my next visit, I intend to fully document the forms of various pronouns
 
 ## Example Texts (translations provided after texts)
 
-Numindau wasintê, jom u dest.
+Numindoms asintê, jom u dest.
 By way of the memory keepers, we know. (common way to start a story)
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu

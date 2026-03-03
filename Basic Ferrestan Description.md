@@ -1,5 +1,3 @@
-# Lanôsta Field Description
-
 
 ## Phonology
 
@@ -69,7 +67,6 @@ u
 w
  - /w/ ~ /ʋ/
 
-------------------------------------------------------
 
 The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong. The circumflex may be placed over a vowel or a j.
 
@@ -80,6 +77,9 @@ Dipthongs: aj, oj,ej, uj, au, eu
 ## Grammar Summary 
 
 *provided by a linguistics amateur who was the first to describe the language*
+
+*Nouns*
+-------
 
 Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
 
@@ -99,6 +99,11 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | accusative | ats | î | â | ojts |
 | dative | ak | il | ojs | ojk |
 | genitive | ad | id | ajd | ojd |
+
+----------------------------------------------------------------
+
+*Personal Pronouns*
+-------------------
 
 *First Person Pronoun Declension*
 | case | singular | plural |
@@ -138,6 +143,11 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 
 *The absolutive case fills the role of the Dative in animate nous
 ** comitative case fills the role of the predicate nominal and predicate adjective expressions
+
+----------------------------------------------------------------
+
+*Verbs*
+------
 
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
 

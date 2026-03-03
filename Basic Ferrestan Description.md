@@ -142,6 +142,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | locative | emir | mroli |
 
 *The absolutive case fills the role of the Dative in animate nous
+
 ** comitative case fills the role of the predicate nominal and predicate adjective expressions
 
 ----------------------------------------------------------------

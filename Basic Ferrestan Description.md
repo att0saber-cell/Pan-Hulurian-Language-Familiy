@@ -322,7 +322,7 @@ jan- sapling, teenager
 
 arje- dusk, an end
 
-jekak- serious, a heavy matter, mentally taxing
+jekki- serious, a heavy matter, mentally taxing
 
 del- low, fallen
 
@@ -353,6 +353,120 @@ jejs- deer
 jo- fire
 
 bae- need
+
+rjift- here
+
+stiba- another place
+
+bakt- there
+
+nat - who
+
+na- what
+
+keba- where
+
+fak- when
+
+bê- why
+
+jas- how
+
+estam- all
+
+mamto- many
+
+mjot- some
+
+stimto- few
+
+jab- other
+
+drotsk- big
+
+tise- long
+
+tsjor- thick, durable, troublesome
+
+jekak- heavy
+
+kjakto- sufficient
+
+stodritse- small
+
+fotwa- short
+
+stwano- narrow
+
+stisto- thin
+
+oskwe- woman
+
+dwikac- man
+
+alk- fish
+
+kroskwe- wife
+
+kordu- husband
+
+krojsko- spouse
+
+blumco- louse, flea
+
+teu- snake
+
+teufta- worm
+
+dahka- stick
+
+juhojd- fruit
+
+mos- seed
+
+rejat- leaf
+
+krobu- root
+
+isen- bark
+
+lmirat- grass
+
+henau- rope
+
+abra- skin
+
+bajet- meat
+
+jakka- blood
+
+ku- bone
+
+tartme- fat
+
+kwe- egg
+
+fikjo- horn
+
+larnau- tail
+
+asto- hair
+
+fji- head
+
+rilbo- ear
+
+icni- eye
+
+bilbo- nose
+
+eta- mouth
+
+ebĵe- tooth
+
+
+
+bilbo- nose
 
 delej- deadfall
 

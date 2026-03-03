@@ -6,68 +6,68 @@
 *This is how the Phonology has been recorded (sounds in ipa)*
 
 a
- - æ
+ - /æ/
 
 b
- - b
- - β when preceeding l, r, m, or w
- - p when preceding a voiceles consonant, or in word final position
+ - /b/
+ - /β/ when preceeding /l/, /r/, /m/, or /w/
+ - /p/ when preceding a voiceles consonant, or in word final position
 
 c
- - c͡ɕ
+ - /c͡ɕ/
 
 d
- - ð
- - d after n, l, or h
+ - /ð/
+ - /d/ after /n/, /l/, or /h/
 
 e 
- - e ~ ɛ
+ - /e/ ~ /ɛ/
 
 f
- - ɸ ~ f
- - p when an intervocalic consonant
+ - /ɸ/ ~ /f/
+ - /p/ when an intervocalic consonant
 
 h
- - ɬ
- - ʃ when proceeded by a t
+ - /ɬ/
+ - /ʃ/ when proceeded by a /t/
 
 i
- - i ~ ɪ
+ - /i/ ~ /ɪ/
 
 j
- - j
+ - /j/
 
 k
- - x word initial, word final, and preceeeding a stop (k,t,d,b)
- - k word final, when the only consonant in a word, and after fricatives (k,s,f,h)
+ - /x/ word initial, word final, and preceeeding a stop (/k/,/t/,/d/,/b/)
+ - /k/ word final, when the only consonant in a word, and after fricatives (/k/,/s/,/f/,/h/)
 
 l
- - ɫ ~ l
+ - /ɫ/
 
 m
- - m
+ - /m/
 
 n
- - n
+ - /n/
 
 o
- - o ~ ɔ
+ - /o/ ~ /ɔ/
 
 r
- - ɾ ~ ɹ ~ r
+ - /ɾ/ ~ /ɹ/ ~ /r/
 
 s
- - s
+ - /s/
 
 t
- - t
- - θ when predeeding l or n
+ - /t/
+ - /θ/ when predeeding /l/ or /n/
 
 u
- - u
+ - /u/
 
 w
- - w ~ ʋ
+ - /w/ ~ /ʋ/
 
 ------------------------------------------------------
 

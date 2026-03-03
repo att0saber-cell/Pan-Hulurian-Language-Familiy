@@ -540,7 +540,7 @@ Cernit- the name of the chief town of the speakers of this language.
 *This is how the Phonology has been recorded (sounds in ipa)*
 
 a
- -æ
+ - æ
 
 b
  - b
@@ -548,14 +548,14 @@ b
  - p when preceding a voiceles consonant, or in word final position
 
 c
- -c͡ɕ
+ - c͡ɕ
 
 d
  - ð
  - d after n, l, or h
 
 e 
- -e ~ ɛ
+ - e ~ ɛ
 
 f
  - ɸ ~ f
@@ -566,7 +566,7 @@ h
  - ʃ when proceeded by a t
 
 i
- -i ~ ɪ
+ - i ~ ɪ
 
 j
  - j
@@ -579,26 +579,26 @@ l
  - ɫ ~ l
 
 m
- -m
+ - m
 
 n
- -n
+ - n
 
 o
- -o ~ ɔ
+ - o ~ ɔ
 
 r
  - ɾ ~ ɹ ~ r
 
 s
- -s
+ - s
 
 t
- -t
- -θ when predeeding l or n
+ - t
+ - θ when predeeding l or n
 
 u
- -u
+ - u
 
 w
  - w ~ ʋ

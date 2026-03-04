@@ -235,6 +235,8 @@ ojl- hinderance, barier, in martial context hastily erected or makeshift fortifi
 
 retlo- revulsion, disgust, a strong negative emotion that keeps one away from an action, strong dislike
 
+jita- responsibily, duty, expectation
+
 trebfolo- abuse of power, scamming, embezzeling from the community, bribingblask- large, huge, great
 
 itja- inherited responsibility, a reputation strong enough to be passed on to descendants (both positive and negative)

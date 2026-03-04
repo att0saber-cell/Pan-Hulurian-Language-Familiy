@@ -221,6 +221,8 @@ kimna- channel
 
 sweno- wide
 
+sirmu- cavalry spear, lance
+
 bfolo- a crime, a breach of boundaries, a breach of trust
 
 befla- seam

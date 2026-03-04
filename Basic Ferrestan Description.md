@@ -205,19 +205,55 @@ ensaje- forest (any place with many trees)
 
 osu- child (of someone), offspring
 
+swotni- a group bound by shared ancestry
+
 wodjek- valley
+
+amwo- deep
+
+edajn- plateau, tableand
+
+dekli- shoal, reef
+
+kje, jeki- notch, pass
+
+kimna- channel
 
 sweno- wide
 
 bfolo- a crime, a breach of boundaries, a breach of trust
 
+befla- seam
+
+oklo- boundary, law, standard
+
+dokol- trust
+
+lo- pasture, hunting ground, field, or fishery owned or claimed by a particular individual or clan
+
+ojl- hinderance, barier, in martial context hastily erected or makeshift fortifications
+
+retlo- revulsion, disgust, a strong negative emotion that keeps one away from an action, strong dislike
+
 trebfolo- abuse of power, scamming, embezzeling from the community, bribingblask- large, huge, great
 
+itja- inherited responsibility, a reputation strong enough to be passed on to descendants (both positive and negative)
+
+tjabre- authority
+
+tja- right
+
+ere- loud, noisy
+
 durbu- ship
+
+blu- ledge, balcony
 
 krafke- permanent village, fortified place
 
 mlan- tower, stone fort
+
+man- upright, quickly risin
 
 arfki- cloak, blanket
 

@@ -261,15 +261,29 @@ arfki- cloak, blanket
 
 rafbu- sail
 
+cubi- photo
+
 hadi- cloth, garment (esp. undergarment)
+
+hafbe- fabric, to weave
 
 rokki- fur
 
+rok- animal
+
+kilne- thick (thickly growing or placed together)
+
 erkki- plant fibers
+
+arek- stem, twig, small branch
 
 ment- trousers, leggings
 
+mjek- waist
+
 mikjek- belt
+
+ike- to bend
 
 biha- shirt
 
@@ -280,6 +294,8 @@ je- this
 ewa- that
 
 herbi- ash
+
+rib- leftovers
 
 ji- one
 
@@ -300,6 +316,8 @@ erfo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
 klobuk- helmet
 
 sajto- to reason
+
+sito- dock, landing site for a boat, airplane runway
 
 asinte- memory
 

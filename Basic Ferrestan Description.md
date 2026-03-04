@@ -209,7 +209,7 @@ swotni- a group bound by shared ancestry
 
 wodjek- valley
 
-amwo- deep
+amwo- deep (meaning projecting far into something)
 
 edajn- plateau, tableand
 
@@ -379,7 +379,9 @@ bul- moo (onomatopoeia)
 
 bulê- cow
 
-wefês- horse
+wefês- horse (esp. large or war horse)
+
+anês- riding animal, pack animla (horse, camel, etc)
 
 fjajnd- grain (esp wheat)
 
@@ -395,7 +397,21 @@ en- large stone useable for knapping or grinding
 
 enwes- anvil
 
-sejkelî- dough
+sja- a repeated action
+
+sajta- to pace, to make a repeated pointless motion
+
+sajfja- funny, hilarious
+
+arkêsja- anguish
+
+arkê- sad
+
+arkêl- to cry, weep
+
+raskê- displeasure, discomfort, irritation
+
+menkelî- dough
 
 komfti- domesticated species of new genus in the Lamini tribe of the camel family
 
@@ -417,13 +433,21 @@ hamtora- nation
 
 kjaso- door
 
+kisa- roof
+
 bfolô- a dishonest person
 
-nikbe- penguin
+knidel- penguin
+
+nikbe- hot spring, to boil
+
+nik- pot
 
 letra- snow (sp. after a heaver or 'full' snowfall)
 
 le- snow
+
+tar- pile, stack
 
 ktile- melting, hard, or packed snow
 
@@ -443,6 +467,14 @@ iruh- sibling, one who is as close as a sibling
 
 woski- cousin, other member of your clan
 
+wo- clan
+
+sik- friend
+
+sikmojl- nepotism
+
+omli- smile
+
 wisat- a cold wind or current(esp from the west)
 
 krepf- berry
@@ -455,37 +487,51 @@ amlujt- letters, their alphabet
 
 kimda- mountian goat
 
+esda- cliff, wall (sp. a wall not on a house, cf. high)
+
 kimftad- domestic sheep/goat
 
 fjobjas- field (esp. terraced)
 
-durand- bark cannoe
+durand- bark or plank cannoe
 
-kedur- multihulled canoe or ship
+mjodur- outrigger canoe or ship
+
+wakan- double hulled canoe or ship
 
 kim- mountain
 
 eda- horn
 
-srubnad- shield
+jekad- horn (musical instrument)
 
-bandarjec- armor
+amĵesband- shield
+
+bandrjec- armor
 
 it- to speak
 
-besul- steep, high/low root
+besul- steep
 
 etka, etak- prosperous, productive, fertile
 
 cafte- to listen, to observe closely, to take notice of
 
-caftê-ruler, leader, administrator
+caftê- ruler, leader, administrator
+
+ancêft- ruler of a tribe or of several clans, king
+
+caf- a small noise, detail
 
 ajnun- completed and recognized deed
+
+inwa- council, board, assemby, committee (any group that makes decisions for a larger whole by democratic means, traditionally refering to the small councils or committees of respected clan memebers responsible for making most decisions for the clan, or a subgroup of the clan)
 
 jebenkî-mighty
 
 enki- arm
+
+brenki- shoulder
 
 jeb- capable
 
@@ -505,13 +551,17 @@ kedej- newly discovered member of they cypress family, resembles a fir or spruce
 
 tmeto- sky
 
-tomej- cloud
+teu- shirt, small cape or shawl over the shoulders
+
+tmej- cloud
 
 kreska- bread
 
-arna- war leader, ruler
+sjak- clay
 
-sru- sword
+arna- war leader, commander of an armed division or army, chief of a clan
+
+amîsu- sword
 
 abet- petrel
 
@@ -543,6 +593,8 @@ ilno- a beautiful (small) object, jewlry, adornment
 
 lanĵo- pine, member of the genus Pinus
 
+is- shorline
+
 isjena- beech
 
 kejd- song, music
@@ -561,7 +613,7 @@ kajtse- rocks in the sea, a rocky place along the shore, and unsafe place, troub
 
 kajtjen- a beach, a safe landing place for canoes or small craft, an underwater sandbar, rest
 
-kajdoh- a deep portion of the coast, an opening or opportunity
+kajdel- a deep portion of the coast, an opening or opportunity
 
 mokajn- open ocean, work
 
@@ -579,13 +631,23 @@ hja- listen, witness
 
 celko- to acquire, to purchase, to trade for
 
+cel- to move from one place to another
+
+jokne- in multiple directions, branching
+
+jok- hinge
+
 bralme- time
 
 ker- to make use of
 
 das- a bay or sound
 
+sdam- embrace, hug
+
 jelmak- Old
+
+jejm- persistent, detirmined, decided, steadfast, stubborn 
 
 sred- most
 
@@ -622,6 +684,10 @@ kihle- silver
 rakis-gold
 
 wesse- bronze
+
+kkil- providing light, luminscent
+
+eus- to manipulate an object or material, to form something, to fix, to prepare something
 
 se- rock, stone
 
@@ -676,6 +742,8 @@ fotwa- short
 stwano- narrow
 
 stisto- thin
+
+stjim- undone, broken
 
 oskwe- woman
 

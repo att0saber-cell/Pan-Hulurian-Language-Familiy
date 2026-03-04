@@ -261,7 +261,19 @@ arfki- cloak, blanket
 
 rafbu- sail
 
-cubi- photo
+csubi- photo
+
+têrne- train
+
+kotsa- school subject, theme
+
+skor- city
+
+tâkamok- employment
+
+kakots- biology
+
+tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
@@ -347,17 +359,25 @@ uto- wind
 
 utone- windy
 
+twomej- fart
+
 hel- ford
 
 sekolt- a small settlement
 
 sekle- lake
 
+skwolkne- friendly
+
+lesk- wall (of a building)
+
+kot- safe, amicable
+
 bul- moo (onomatopoeia)
 
 bulê- cow
 
-ufês- horse
+wefês- horse
 
 fjajnd- grain (esp wheat)
 
@@ -369,6 +389,10 @@ ruski- rye
 
 mosjean- flour
 
+en- large stone useable for knapping or grinding
+
+enwes- anvil
+
 sejkelî- dough
 
 komfti- domesticated species of new genus in the Lamini tribe of the camel family
@@ -378,6 +402,10 @@ kom- wild species of new genus in the Lamini tribe of the camel family
 fti- hearth, controled fire, what makes a dwelling a home
 
 dohmu- a gorge or steep valley
+
+dohne- crooked, rugged
+
+bik- ballpoint pen (colloquially used to refer to any pen or pencil)
 
 ja- interjection of dislike, dismay, disgust, displeasure, or frustration
 

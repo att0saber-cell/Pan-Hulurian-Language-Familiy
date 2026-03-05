@@ -695,7 +695,9 @@ jejs- deer
 
 jo- fire
 
-bae- need
+baje- need
+
+bafec- starvation, famine
 
 rjift- here
 
@@ -741,6 +743,10 @@ fotwa- short
 
 stwano- narrow
 
+sut- neighbor, something near
+
+atno- cave, passage, arch, large arching room
+
 stisto- thin
 
 stjim- undone, broken
@@ -757,7 +763,15 @@ kordu- husband
 
 krojsko- mariage
 
+kro- rope used to attach a boat to a moor or the ground, or to secure a sail
+
+kor-  nail
+
 blumco- louse, flea
+
+buj- to scratch, ichy
+
+umoc- bug
 
 teu- snake
 
@@ -777,7 +791,11 @@ isen- bark
 
 lmirat- grass
 
+lmitrane- common, pervasive, everywhere
+
 henau- rope
+
+he- to twist
 
 abra- skin
 
@@ -791,9 +809,13 @@ tartme- fat
 
 kwe- egg
 
-fikjo- horn
+fikjo- to rest
 
 larnau- tail
+
+runa- to reach (for something)
+
+ojmad- to attain, to achieve, to reach (something)
 
 asto- hair
 
@@ -811,9 +833,11 @@ ebĵe- tooth
 
 doje- toungue
 
-naki- finger
+naki- finger, a projection of land into the sea or an ocean, a very steep stone mountain peak
 
 arist- foot
+
+rjasta- to support, a support, foundation, or base
 
 sitre- leg
 
@@ -821,17 +845,35 @@ ktutu- knee
 
 kmortu- hand
 
+smaroktwa- to assist, to help, a close companion or friend
+
 nakbi- wing
+
+knajbwo- a banner
 
 kmat- belly
 
+kmatsum- center
+
+sweknat- content, blessed, to bless
+
 sokmat- guts
 
+kwosta- bowstring
+
+buskot- bow
+
 hejk- neck
+
+hle- tree trunk
+
+hjeska- a slope, hillside, mountainside
 
 ersi- back
 
 trima- breast, chest
+
+rjatme- sensitive, fragile, something that requires protection or vigilence
 
 kobluj- heart
 
@@ -851,15 +893,31 @@ djak- to vomit, pour
 
 bwako- to blow, to inspire
 
+abwo- flute
+
+aubokta- cough
+
 uk- to breathe
+
+kwestab- sudden storm, usually refering to strong one in the mountains
+
+seba- to expect, to act as if expecting
+
+stesba- unready
 
 face- to die
 
 afbe- to kill
 
-pristo- to hunt, to pursue, to search for
+fristo- to hunt, to pursue, to search for
+
+firse- sign, marker, symbol
+
+sot- to follow
 
 fjako- laugh
+
+fjaktwa- happy
 
 te- sleep
 
@@ -873,11 +931,19 @@ kanje- smell
 
 werto- to hit, strike
 
+wer- bruise
+
 siked- cut
 
-frotwa- spit
+skjud- saw
 
-jemtaul- scratch
+frotwa- axe
+
+jemtaul- food
+
+matlu- to cook
+
+jet- to hide, store, stow, pack for transport
 
 ju- dig
 
@@ -886,6 +952,8 @@ iske- swim
 bije- walk
 
 alfeh- lie down, recline
+
+fjahledi- injured
 
 odme- member of the Podocarp family
 
@@ -898,6 +966,12 @@ panke- Wollemia sp.
 sjeln- another kind of Podocarp
 
 broljer- sit
+
+ljerne- occupied
+
+ljer- task
+
+stuk- choke
 
 cujn- another group of Pinus sp., white pine
 
@@ -915,13 +989,19 @@ firôs- squeeze
 
 berotni- rub
 
+twin- to tickle, pluck a stringed instrument, wag finger, wiggle finger, play piano, tap finger
+
 kîlsbert- wash
 
 homan- pull
 
 arban- push
 
+mjabna- in motion
+
 sletsa- throw
+
+tjas- rise
 
 krobu- to tie, lash, unite
 
@@ -929,7 +1009,9 @@ di- sew
 
 atek- count, number
 
-brabot- play
+brabot- play (a game)
+
+bot- shadow
 
 dur- float
 
@@ -961,6 +1043,10 @@ mjon- smoke
 
 rohekba- path, road, route, habit
 
+rohke- direction
+
+keba- trail, rut
+
 fruhle- orange
 
 kmid- red
@@ -987,9 +1073,15 @@ ibwan- day
 
 klodmoj- warm
 
+domi- coal
+
+kol- feeling, sensation, emotion
+
 stolkmodi- cold
 
 jelm- story
+
+
 
 rjot, reto- new
 
@@ -997,13 +1089,21 @@ inna- good
 
 eklom- bad
 
-dredej- rotten
+dredej- rotten, falling apart, in shambles
+
+dej- crack, to crack or split
 
 amatne- dirty, stained
 
-limkabo- straight
+atma- brown, earth color
+
+mlikbo- straight
+
+hensko- Auracaria sp.
 
 tôsro- round
+
+artôs- ring, circle
 
 skel- wet
 
@@ -1013,13 +1113,17 @@ esti- true, correct, honest
 
 dorle- near, well defined, apparant
 
+rel- ti startle
+
 ajbe- right (direction)
 
 rabnat- left (direction)
 
 man- and
 
-alati- name
+alati- name, identity, reputation
+
+aljata- to identify
 
 delej- deadfall
 
@@ -1036,6 +1140,8 @@ daj- wise
 bwau- source, spring
 
 obajh- tent, temporary dwelling
+
+bohaju- pit dwelling, pit house
 
 jikejk- knot
 
@@ -1078,6 +1184,8 @@ Almandu- the name of a group of mountain ranges exhibiting steep sides and a lim
 Nastu- the name of a group of 3 mountains on the shores of a great mountain lake, near Cernit.
 
 Das Jelmakne- the name of a geographic location including both a bay and a sound located just outside the bay
+
+Dohmulo- Cernit's surrounding fields and villages. Alternate name for Cernit itself
 
 Brenna- the name of a river
 

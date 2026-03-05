@@ -36,7 +36,7 @@ j
  - /j/
 
 k
- - /x/ word initial, word final, and preceeeding a stop (/k/,/t/,/d/,/b/)
+ - /x/
  - /k/ word final, when the only consonant in a word, and after fricatives (/k/,/s/,/f/,/h/)
 
 l
@@ -184,7 +184,7 @@ In my next visit, I intend to fully document the forms of various pronouns
 
 # Example Texts (translations provided after texts)
 
-Numindoms asintê, jom u dest.
+Numindaustle jasintê, jom u dest.
 By way of the memory keepers, we know. (common way to start a story)
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu

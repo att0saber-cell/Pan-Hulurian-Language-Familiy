@@ -1081,7 +1081,7 @@ stolkmodi- cold
 
 jelm- story
 
-
+asloh- lake
 
 rjot, reto- new
 
@@ -1186,6 +1186,20 @@ Nastu- the name of a group of 3 mountains on the shores of a great mountain lake
 Das Jelmakne- the name of a geographic location including both a bay and a sound located just outside the bay
 
 Dohmulo- Cernit's surrounding fields and villages. Alternate name for Cernit itself
+
+Swenlask- a large lake in the mountians, upon which Cernit is built
+
+Henko Somren- high mountain range separating Swenlask from the sea
+
+Istor- personal name (m)
+
+Krofuhes- personal name (m)
+
+Kjedas- personal name (m)
+
+Lerawi- personal name (f)
+
+Majelis- personal name (f)
 
 Brenna- the name of a river
 

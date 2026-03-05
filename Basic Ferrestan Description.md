@@ -980,7 +980,7 @@ kwanic- cypress sp.
 
 sanluj- Auracaria sp.
 
-panke- Wollemia sp.
+fĵanke- Wollemia sp.
 
 sjeln- another kind of Podocarp
 

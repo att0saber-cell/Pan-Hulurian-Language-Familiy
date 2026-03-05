@@ -5,32 +5,40 @@
 
 a
  - /æ/
+ - /ʌ͜ɪ̆/ under a circumflex
 
 b
  - /b/
  - /β/ when preceeding /l/, /r/, /m/, or /w/
  - /p/ when preceding a voiceles consonant, or in word final position
+ - /bʲ/ before a circumflex
 
 c
- - /c͡ɕ/
+ - /c͜ɕ/
+ - /ʈʲ/ before circumflex
 
 d
  - /ð/
  - /d/ after /n/, /l/, or /h/
+ - /ʐʲ/ before a circumflex
 
 e 
  - /e/ ~ /ɛ/
+ - /ɛ͜ɪ̆/ under a circumflex
 
 f
  - /ɸ/ ~ /f/
  - /p/ when an intervocalic consonant
+ - p͜fʲ befor a circumflex
 
 h
- - /ɬ/
+ - /ꞎ/
  - /ʃ/ when proceeded by a /t/
+ - /ꞎʲ/ under a circumflex
 
 i
  - /i/ ~ /ɪ/
+ - /i͜ɪ̆ʲ/ under a circumflex
 
 j
  - /j/
@@ -38,34 +46,44 @@ j
 k
  - /x/
  - /k/ word final, when the only consonant in a word, and after fricatives (/k/,/s/,/f/,/h/)
+ - /k͜ʂʲ/ before a circumflex
 
 l
  - /ɫ/
+ - /ʎʲ/ before a circumflex
 
 m
  - /m/
+ - /vʲ/ before a circumflex (nazalizes the next vowel)
 
 n
  - /n/
+ - /ɳʲ/ before a circumflex
 
 o
  - /o/ ~ /ɔ/
+ - /ɔ͜ɪ̆/ under a circumflex
 
 r
  - /ɾ/ ~ /ɹ/ ~ /r/
+ - /ɻ̠˔ʲ/ before a circumflex
 
 s
  - /s/
+ - /ʂʲ/ before a circumflex
 
 t
  - /t/
  - /θ/ when predeeding /l/ or /n/
+ - ʈ͜ɕʲ before a circumflex
 
 u
  - /u/
+ - /ʊ͜ɪ̆/ under a circumflex
 
 w
  - /w/ ~ /ʋ/
+ - /ɱ̊ʲ/ before a circumflex
 
 
 The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong. The circumflex may be placed over a vowel or a j.

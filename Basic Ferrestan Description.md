@@ -74,7 +74,8 @@ s
 
 t
  - /t/
- - /θ/ when predeeding /l/ or /n/
+ - /tʼ/ word initial, when the sole consonant at the start of a word
+ - /θ/ when predeeding /l/, /n/, or /m/
  - ʈ͜ɕʲ before a circumflex
 
 u

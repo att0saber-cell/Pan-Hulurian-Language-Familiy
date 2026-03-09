@@ -346,6 +346,14 @@ hi- seven
 
 erfo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
 
+klem- constant, consistant, steady, reliable
+
+twira- soak, absorb, a rag or sponge
+
+tjaur- to learn quickly, to understand quickly, or easily
+
+was- to love, to care for, to nourish
+
 klobuk- helmet
 
 sajto- to reason
@@ -1214,15 +1222,21 @@ Istor- personal name (m)
 
 Krofuhes- personal name (m)
 
+Kleamos- personal name (cf. m, sometimes f)
+
+Klemtiwar- personal name (cf. f, sometimes m)
+
 Kjedas- personal name (m)
 
 Lerawi- personal name (f)
 
-Majelis- personal name (f)
+Majelis, Mjelis, Mjelsi, Maelis- personal name (f)
 
 Brenna- the name of a river
 
 Bawodjek ad Brenna- a high elevation, rather deep valley along the Vrenna, near its headwaters, where the rain shadow of the surrounding mountains allows for a grassland and shrubland to exist within the valley.
+
+Herbitas- the name of a river
 
 Nasdohmu- the name of a town
 

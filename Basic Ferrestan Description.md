@@ -108,7 +108,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | nominative | o | e | au | eu |
 | accusative | os | es | au | eus |
 | dative | os | eh | aus | eu w(e)- |
-| comitative | oms | oms | aulste | emsk 
+| comitative | oms | oms | aust | emsk 
 | genitive | ot | en | aute | eun |
 
 *Inamimate Article Declension*
@@ -127,10 +127,10 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 *First Person Pronoun Declension*
 | case | singular | plural |
 |---|---|---|
-| ergative | ce/ceseu | jom |
-| absolutive* | cest | jojm |
-| accusative | co | jom |
-| comitative** | ceki | jomje |
+| ergative | ce/ceseu | jemu/jeum |
+| absolutive | cest | jom |
+| dative | co | jom |
+| comitative* | ceki | jomje |
 | genitive | ces | jomê |
 
 *Second Person Pronoun Declension*
@@ -138,7 +138,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 |---|---|---|
 | ergative | muk | kno |
 | absolutive | kmusti | skanti |
-| accusative | mukwo | kanwo |
+| dative | mukwo | kanwo |
 | comitative | kmukje | knoki |
 | genitive | musk | knosê |
 
@@ -147,7 +147,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 |---|---|---|
 | ergative | kjan | ika |
 | absolutive | kinast | kjasti |
-| accusative | kjanwo | ikau |
+| dative | kjanwo | ikau |
 | comitative | kjane | ikau |
 | genitive | kjans | ikâ |
 
@@ -160,9 +160,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | genitive | mrid | mrojd |
 | locative | emir | mroli |
 
-*The absolutive case fills the role of the Dative in animate nous
-
-** comitative case fills the role of the predicate nominal and predicate adjective expressions
+* comitative case fills the role of the predicate nominal and predicate adjective expressions
 
 ----------------------------------------------------------------
 
@@ -203,7 +201,7 @@ In my next visit, I intend to fully document the forms of various pronouns
 
 # Example Texts (translations provided after texts)
 
-Numindaustle jasintê, jom u dest.
+Numindaust asintê, jom u dest.
 By way of the memory keepers, we know. (common way to start a story)
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu

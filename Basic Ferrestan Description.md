@@ -202,9 +202,11 @@ In my next visit, I intend to fully document the forms of various pronouns
 # Example Texts (translations provided after texts)
 
 Numindaust asintê, jom u dest.
+
 By way of the memory keepers, we know. (common way to start a story)
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
+
 Listen, I have bought time. Now make use of it.
 
 

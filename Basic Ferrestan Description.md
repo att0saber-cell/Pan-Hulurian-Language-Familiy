@@ -205,9 +205,29 @@ Numindaust asintê, jom u dest.
 
 By way of the memory keepers, we know. (common way to start a story)
 
+
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
 
 Listen, I have bought time. Now make use of it.
+
+
+eu hjarsk u bojt namojs tekja ikâ
+
+ru ojts testis ktamsk kobluj u was ika
+
+ljeme it ul ams molne
+
+suttsu kjedkoleu kjasti
+
+nau retlok hi u feru ktau kobluj ikâ
+
+eus ikâ mu dfik testis
+
+ur au kjata sum mondih kwo wofit
+
+o isko isuj ju î jarajh dajdum del
+
+o isko isuj ros î jen dum tmece kjan
 
 
 # Lexicon

@@ -234,7 +234,9 @@ trabu- wave
 
 edajn- plateau, tableand
 
-dekli- shoal, reef
+dekli- shoal, reef, long rock
+
+mwojeska- a rocky outropping
 
 kje, jeki- notch, pass
 

@@ -230,11 +230,19 @@ wodjek- valley
 
 amwo- deep (meaning projecting far into something)
 
+trabu- wave
+
 edajn- plateau, tableand
 
 dekli- shoal, reef
 
 kje, jeki- notch, pass
+
+monku- bowl, a bowl shaped valley or dent in a mountian
+
+kmati- spoon
+
+kimat- to carry
 
 kimna- channel
 

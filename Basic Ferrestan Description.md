@@ -624,7 +624,7 @@ is- shorline
 
 isjena- beech
 
-kejd- song, music
+kjed- song, music
 
 jena- smooth
 

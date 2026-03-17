@@ -1271,3 +1271,44 @@ Herbitas- the name of a river
 Nasdohmu- the name of a town
 
 Cernit- the name of the chief town of the speakers of this language.
+
+
+## Prepositional Prefixes for Articles
+
+dom- about
+
+b- above
+
+wj- across
+
+ult- after
+
+hl- against
+
+os- among
+
+k- around
+
+l- at
+
+kw- before (in front of)
+
+ikw- before (in time)
+
+us- behind
+
+ac- below, beneath
+
+l- beside
+
+ac- below, beneath
+
+m- between
+
+kiw- by (done by)
+
+sûm- by (passing by)
+
+nan- down
+
+hbaj- during

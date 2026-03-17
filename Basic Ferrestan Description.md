@@ -438,6 +438,8 @@ bulê- cow
 
 wefês- horse (esp. large or war horse)
 
+sut, stu- negation particle
+
 anês- riding animal, pack animla (horse, camel, etc)
 
 fjajnd- grain (esp wheat)
@@ -1220,6 +1222,10 @@ dubens- member of a newly discovered genus of Auracariacae, chiefly found in mon
 
 -ne -adjective former (suffix)
 
+-(e)r - more 
+
+-(e)rs
+
 -stol -farm or small settlement (suffix)
 
 -aje -home, homeland (suffix)
@@ -1283,7 +1289,7 @@ wj- across
 
 ult- after
 
-hl- against
+hl- against, versus
 
 os- among
 
@@ -1309,6 +1315,126 @@ kiw- by (done by)
 
 sûm- by (passing by)
 
-nan- down
+nan- down, down to
 
 hbaj- during
+
+n- for
+
+r- because
+
+alk- from
+
+kt- in, within
+
+daj- into
+
+bw- near
+
+l- off
+
+bj- on, upon
+
+ast- out
+
+mik- over
+
+ljem- though
+
+kbet- through
+
+es- to, toward
+
+anm- under
+
+okj- up to
+
+d- with, by use of, using
+
+fk- including, plus
+
+ljek- along
+
+jot- amid, in the midst of, in the middle of
+
+ih- as, like
+
+alw- beyond, past
+
+fm- but, but for, save for, except for, despite
+
+ej- minus, excluding
+
+tid- next
+
+imn- onto
+
+j- opposite
+
+obj- out of
+
+kr- outside, outside of
+
+abr- since, since the time of
+
+w- than
+
+ojl- until
+
+wan- on top of
+
+olw-
+
+mint- unilik
+
+numind- via, by way of, by the route of
+
+cs- 
+
+seuc-
+
+se- feminine indicator
+
+sê- masculine indicator
+
+em- diminuitive
+
+en- great, greater, bigger
+
+st- not, no, none, un-, dis-
+
+tul- many
+
+linji- few
+
+## Verb Particle Prefixes
+
+b- want to
+
+c- to cause, because of
+
+d- must
+
+f- pervective marker
+
+h- should
+
+k- could
+
+l- would
+
+m- might, may, possibly
+
+r-
+
+n- probably
+
+s-
+
+t- wisht to
+
+is- adjective, participle marker
+
+km- certainly
+
+st(u)-, sut- negation (can stack before other prefixes)

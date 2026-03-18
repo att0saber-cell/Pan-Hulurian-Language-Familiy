@@ -205,13 +205,13 @@ Numindaust asintê, jom u dest.
 
 By way of the memory keepers, we know. (common way to start a story)
 
-
+---------
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
 
 Listen, I have bought time. Now make use of it.
 
-
+----------
 
 eu hjarsk u bojt namojs tekja ikâ
 

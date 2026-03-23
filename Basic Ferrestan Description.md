@@ -706,6 +706,8 @@ das- a bay or sound
 
 sdam- embrace, hug
 
+djo, ido- run
+
 jelmak- Old
 
 jejm- persistent, detirmined, decided, steadfast, stubborn 

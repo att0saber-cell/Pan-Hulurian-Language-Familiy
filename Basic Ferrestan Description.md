@@ -706,7 +706,7 @@ das- a bay or sound
 
 sdam- embrace, hug
 
-djo, ido- run
+djosk- run
 
 jelmak- Old
 
@@ -1122,7 +1122,7 @@ lafec- dark green
 
 elmo- blue
 
-elam- light purple, pink
+lema. ljam- light purple, pink
 
 krodwi- deep purple
 

@@ -9,7 +9,7 @@ a
 
 b
  - /b/
- - /β/ when preceeding /l/, /r/, /m/, or /w/
+ - /β/ when preceeding /l/, /r/, /m/, or /n/
  - /p/ when preceding a voiceles consonant, or in word final position
  - /bʲ/ before a circumflex
 

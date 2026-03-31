@@ -105,7 +105,6 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 *Animate Article Declension*
 | case | definite singular | indefinite singular | definite plural | indefinite plural |
 |---|---|---|---|---|
-
 | nominative | o | e | au | eu |
 | accusative | os | es | au | eus |
 | dative | os | eh | aus | eu w(e)- |

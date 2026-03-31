@@ -1,7 +1,7 @@
-# History of Srokeskia#
-------------
+# History of Srokeskia
+
 ## Prehistory ##
-------------
+
 Srokeskia was originally populated in the Upper Paleolithic by a population of hunter gathers that appear to have originated from either Australia or Sundaland, though most likely the former. This population appears to have been chiefly of Australian Aboriginal origin, but with significant admixture from other melanesian groups, and a population related to the ancestors of the Jomon and other ancient North East Asian Groups. They also appear to have mixed with archaic hominins, both Denisovans and an unknown species, before reaching Huluria.
 
 | Percentage Contributed | Ancestral Population |
@@ -30,4 +30,4 @@ This population lived in isolation in Srokeskia for the rest of the Paleolithic,
 At approximately this time, a small population of mixed Nilotic and Eastern Hunter Gatherer ancestry arrived on the east coast. This migration is associated with the Dzemali, and though this population was not large, it was able to replace a large portion of the AWCD, and constituted about 30% of the resulting population. Some groups of AWCD migrated into the lower ranges of mountains nearer the coast, where they persisted for a time and mixed with the local highland population. Thus, the western populations of HHG had an increased amount of OWC ancestry when compared to more eastern populations.
 
 ## The Advent of Agriculture ##
----------------
+

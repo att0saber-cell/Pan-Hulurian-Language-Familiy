@@ -4,6 +4,7 @@
 
 Srokeskia was originally populated in the Upper Paleolithic by a population of hunter gathers that appear to have originated from either Australia or Sundaland, though most likely the former. This population appears to have been chiefly of Australian Aboriginal origin, but with significant admixture from other melanesian groups, and a population related to the ancestors of the Jomon and other ancient North East Asian Groups. They also appear to have mixed with archaic hominins, both Denisovans and an unknown species, before reaching Huluria.
 
+|---|---|---|
 | ~20% | Papuan-Melanesian |
 | ~60% | Australian-Aboriginal–like ancestry (primary) |
 | ~7% | Ainu-like ancestry |

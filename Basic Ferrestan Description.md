@@ -474,7 +474,7 @@ raskê- displeasure, discomfort, irritation
 
 menkelî- dough
 
-komfti- domesticated species of new genus in the Lamini tribe of the camel family
+komfti- llama
 
 kom- wild species of new genus in the Lamini tribe of the camel family
 

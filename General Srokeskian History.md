@@ -31,3 +31,12 @@ At approximately this time, a small population of mixed Nilotic and Eastern Hunt
 
 ## The Advent of Agriculture ##
 
+Around 5000 BC, a group of Neolithic Farmers from the south of India arrived in Srokeskia. While it is unclear whether they introduced agriculture, or whether it had already begun to be experimented with, it is certain that they were the group that introduced some of the most important crops and livestock to Srokeskia. Wheat, barley, flax, sheep, goats, cattle, and pigs all first arrived with these people. They made a sizable ancestral input on Northern and Eastern Srokeskia, especially agriculturalists. 
+
+After their arrival, many groups in the north of Srokeskia, and also the East, began to adopt agriculture. They settled down in villages, with some of the largest ones reaching a few hundred strong. They grew wheat, barley, komos, and flax, and kept herds of pigs, sheep, goats, and cattle. The tropical Zebu cattle did not fare too well in all but the far northern regions of Huluria, and neither did the tropical hogs, but other than that, animal husbandry was a resounding success. It was adopted wholeheartedly by the people of the plateau, who partially abandoned their traditional hunting and gathering lifestyle to be nomadic pastoralists. They also  domesticated a local camelid, a local wild goat/antelope, and a local type of deer. 
+
+At about the year 2000 BC, a new wave of migration from Australia arrived. A Pama Nyungan speaking group of warriors found their way to Huluria, and settled on the Black Islands, an island chain off the east coast. They established themselves there, many of them took wives of the previous inhabitants of the island or of neighboring peoples, and they began to build villages and farm the land. A couple of centuries later, they exploded outwards, conquering the rest of the south eastern regions, and reaching as far north as the modern city of Simperu. They established a stratified, centrally organized kingdom and developed a sophisticated culture. They invented a writing system, and learned how to work bronze out of copper and both tin and arsenic. They did not become a truly bronze age civilization, but rather used them to a similar extent to metalworking societies in the Americas. They built a capital city called Krayta Wratka, on the coast north of where the modern city of Sônargãw lies.
+
+This was the origin of the Jure civilization
+
+

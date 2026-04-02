@@ -29,7 +29,8 @@ e
 f
  - /ɸ/ ~ /f/
  - /p/ when an intervocalic consonant
- - p͜fʲ befor a circumflex
+ - p͜fʲ before a circumflex
+ - /f/ when preceeded by a stop consonant
 
 h
  - /ꞎ/

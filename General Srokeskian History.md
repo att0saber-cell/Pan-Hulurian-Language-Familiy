@@ -55,7 +55,7 @@ Their first king, Ulankol, spent his reign attempting to build a stable realm fo
 
 The next two decades were spent consolidating. One of brothers, the official king, spent his time campainging, mopping up Jure remnants and breakaway rebellions, and established Ulankolid dominion over Easter Srokeskia. The other brother oraginized and consolidated control of the country, establishing the old Jure upper and administrative classes as the new bureaucracy. By 60 BC, almost all of the old Jure lands were solidly under the control of the Ulankolids, except for some minor kingdoms in the far south of Lossia, around the Šroke Delta and the rugged terrain seen around Fristhawy Bay. Even the proud Plateau tribes had been decimated by the war, and forced to acknowledge the Ulankolid Regime's overlordship.
 
-The Ulankolids did not have complete and utter dominance over Srokestkia however. In some of the more elevated and rugged portions of the plateau, independent minded tribes refused the imperial yoke. The mountains in the west were too rugged to conquer, and not worth the fight. Some polities in the far north or far south only paid lip service to imperial dominance.
+The Ulankolids did not have complete and utter control over Srokestkia however. In some of the more elevated and rugged portions of the plateau, independent minded tribes refused the imperial yoke. The mountains in the west were too rugged to conquer, and not worth the fight. Some polities in the far north or far south only paid lip service to imperial dominance. Major campaigns were led against them in 31 AD, and again in 73 AD, but 
 
 
 

@@ -1,7 +1,7 @@
 
 # Phonology
 
-*This is how the Phonology has been recorded (sounds in ipa)*
+*This is how the Phonology has been recorded (sounds in IPA)*
 
 a
  - /æ/

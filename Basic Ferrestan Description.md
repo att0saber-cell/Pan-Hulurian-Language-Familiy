@@ -574,6 +574,8 @@ eda- horn
 
 jekad- horn (musical instrument)
 
+sinatlo- The Law
+
 amĵesband- shield
 
 bandrjec- armor

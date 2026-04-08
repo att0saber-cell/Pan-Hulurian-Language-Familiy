@@ -518,6 +518,8 @@ kelî- water (esp. fresh)
 
 arub- ocean, seawater
 
+askit- spill
+
 hujo- father
 
 tabort- mother

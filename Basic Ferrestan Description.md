@@ -1419,6 +1419,8 @@ st- not, no, none, un-, dis-
 
 tul- many
 
+skj- vocative (only for animate nouns, not names)
+
 linji- few
 
 ## Verb Particle Prefixes

@@ -392,6 +392,12 @@ sajto- to reason
 
 sito- dock, landing site for a boat, airplane runway
 
+njet- instruction, directive
+
+sjant- an established practice, tradition
+
+mejns- prominent, important
+
 asinte- memory
 
 udri- wood

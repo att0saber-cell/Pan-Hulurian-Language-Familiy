@@ -1415,7 +1415,7 @@ numind- via, by way of, by the route of
 
 cs- 
 
-seuc-
+seuc- in the same way
 
 se- feminine indicator
 

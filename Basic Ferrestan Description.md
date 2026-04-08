@@ -330,6 +330,8 @@ tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
+
+
 hafbe- fabric, to weave
 
 rokki- fur
@@ -916,9 +918,13 @@ rjasta- to support, a support, foundation, or base
 
 sitre- leg
 
+dlirsko- humanness, one's humanity, the human spirit
+
 ktutu- knee
 
 kmortu- hand
+
+delri- essence, essential quality, a defining characteristic, verb form to distil, coloq. a type of alcohol
 
 smaroktwa- to assist, to help, a close companion or friend
 

@@ -404,6 +404,8 @@ asinte- memory
 
 udri- wood
 
+lwosk- neighbor
+
 ce- I
 
 jom- we

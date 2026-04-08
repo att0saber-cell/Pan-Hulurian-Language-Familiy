@@ -780,6 +780,10 @@ na- what
 
 keba- where
 
+ukmo, kwom- question marking particle
+
+kmit- question, inquiry, to ask
+
 fak- when
 
 bê- why

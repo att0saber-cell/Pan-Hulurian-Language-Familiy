@@ -1347,7 +1347,7 @@ hbaj- during
 
 n- for
 
-r- because
+r- 
 
 alk- from
 
@@ -1409,7 +1409,7 @@ ojl- until
 
 wan- on top of
 
-olw-
+olw- because
 
 mint- unilik
 

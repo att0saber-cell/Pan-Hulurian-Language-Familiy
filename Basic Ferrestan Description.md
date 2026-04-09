@@ -402,6 +402,8 @@ sjant- an established practice, tradition
 
 mejns- prominent, important
 
+anklike- very bright, glorius, brilliant
+
 asinte- memory
 
 udri- wood

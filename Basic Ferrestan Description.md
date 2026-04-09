@@ -386,6 +386,8 @@ twira- soak, absorb, a rag or sponge
 
 tjaur- to learn quickly, to understand quickly, or easily
 
+ru- but
+
 was- to love, to care for, to nourish
 
 klobuk- helmet

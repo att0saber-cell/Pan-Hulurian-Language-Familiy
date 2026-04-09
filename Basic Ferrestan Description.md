@@ -424,6 +424,8 @@ ika- they
 
 mejma- cause
 
+stjeki- perfection, flawlessness
+
 dest- know
 
 jakemt- war

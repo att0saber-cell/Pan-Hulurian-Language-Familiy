@@ -264,6 +264,10 @@ kje, jeki- notch, pass
 
 monku- bowl, a bowl shaped valley or dent in a mountian
 
+bir- steap
+
+sbari- to wander aimlessly or pointlessly, coloq. to go for an lesiurely stroll or hike
+
 kmati- spoon
 
 kimat- to carry

@@ -194,13 +194,12 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
 
  ## 4.1 Question formation
 
- Questions are formed by placing the particle Kwom or Ukmo in front of the verb. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word
+ Questions are formed by placing the particle Kwom or Ukmo in front of the verb. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as isu jesti, isu dest, isu dajke
 
  # 5 Word Order #
 
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
 
-This is as much as I can describe of the grammar. I am not an expert in this field, and one should be sent in due time to fully describe this fascinating language.
 
 # Conjugation of root /daj/ -meaning wise- with an example preposition
 
@@ -213,7 +212,6 @@ Wisdom could also be conjugated as a sapient noun, to refer to intangible or abs
 e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. eh ajdkê, eu wajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os: ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
 
 u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous uf dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
-In my next visit, I intend to fully document the forms of various pronouns
 
 
 # Example Texts (translations provided after texts)

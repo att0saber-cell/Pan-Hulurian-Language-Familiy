@@ -93,6 +93,12 @@ Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
 
 Dipthongs: aj, oj,ej, uj, au, eu
 
+1.2 # Mutation
+
+Often, to cope with there being too many vowels or consonants in a row between words, the second word will mutate. This can take the form of either metathesis or the adition of a j or w consonant.
+
+IF there are to many consonants in a row, oftentimes the second word will metathesize to put a vowel at the begining of the word. For instance, a phrase like A lwosk stjeki would mutate into A lwosk isteki. In such circumstances, a j or w consonant can mutate into an i, u, or o vowel. If there are too many vowels in a row, a phrase like stu ojmad might mutate to stu jomad, though this type of metathesis is less constant in its application.
+
 # 2 Nouns
 
 ## 2.1 Basic Noun Information
@@ -254,11 +260,11 @@ o isko isuj ros î jen dum tmece kjan
 
 7.4
 
-Jeswe un kmit o jekto ", skjo dakjê, a njet majnsers ktats sinatlo kwom u na?"
+Jeswe un kmit o jekto ", skjo dajkê, a njet majnsers ktats sinatlo kwom u na?"
 
 Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko. Je wu jims man mejns ktats sinatlo. Wins ihu. Kno du was o lwosk musk, kmustwe seucisu was kno u na. Biswam u jik bjats nejt wins na.
 
-Re Jestam fu bfolo st jomad os stjoki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot.
+Re jestam fu bfolo stu jomad os stjeki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot.
 
 
 # 8 Lexicon

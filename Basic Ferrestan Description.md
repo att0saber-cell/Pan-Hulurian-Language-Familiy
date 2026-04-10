@@ -256,7 +256,7 @@ o isko isuj ros î jen dum tmece kjan
 
 Jeswe un kmit o jekto ", skjo dakjê, a njet majnsers ktats sinatlo kwom u na?"
 
-Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko. Je wu jims man mejns ktats sinatlo. Wins ihu. Kno du was o lwosk musk, skantiwe seucisu was kno u na. Biswam u jik bjats nejt wins na.
+Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko. Je wu jims man mejns ktats sinatlo. Wins ihu. Kno du was o lwosk musk, kmustwe seucisu was kno u na. Biswam u jik bjats nejt wins na.
 
 Re Jestam fu bfolo st jomad os stjoki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot.
 
@@ -298,6 +298,10 @@ monku- bowl, a bowl shaped valley or dent in a mountian
 bir- steap
 
 sbari- to wander aimlessly or pointlessly, coloq. to go for an lesiurely stroll or hike
+
+skantiwe- yourselves
+
+kmustwe- yourself
 
 kmati- spoon
 

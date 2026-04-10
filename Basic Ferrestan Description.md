@@ -205,7 +205,7 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
 
 
-# Conjugation of root /daj/ -meaning wise- with an example preposition
+# 6 Conjugation of root /daj/ -meaning wise- with an example preposition
 
 daj- wise adj (often used adverbially). Also seen in names or as a particle or interjection.
 
@@ -218,19 +218,21 @@ e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. eh aj
 u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous uf dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
 
 
-# Example Texts (translations provided after texts)
+# 7 Example Texts (translations provided after texts)
+
+## 7.1
 
 Numindaust asintê, jom u dest.
 
 By way of the memory keepers, we know. (common way to start a story)
 
----------
+## 7.2
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
 
 Listen, I have bought time. Now make use of it.
 
-----------
+## 7.3
 
 eu hjarsk u bojt namojs tekja ikâ
 
@@ -250,8 +252,18 @@ o isko isuj ju î jarajh dajdum del
 
 o isko isuj ros î jen dum tmece kjan
 
+7.4
 
-# Lexicon
+Jeswe un kmit o jekto ", skjo dakjê, a njet majnsers ktats sinatlo kwom u na?"
+
+Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko. Je wu jims man mejns ktats sinatlo. Wins ihu. Kno du was o lwosk musk, skantiwe seucisu was kno u na. Biswam u jik bjats nejt wins na.
+
+Re Jestam fu bfolo st jomad os stjoki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot.
+
+
+# 8 Lexicon
+
+## 8.1 Words and Root Words
 
 dubtau- highland
 
@@ -1269,6 +1281,9 @@ isko, siko- a person
 
 dubens- member of a newly discovered genus of Auracariacae, chiefly found in montane and subalpine forests, but also in some lowland temperate rainforests
 
+
+## 8.2 Formative Suffixes
+
 -du -highland (suffix)
 
 -as -watercourse (suffix)
@@ -1292,6 +1307,9 @@ dubens- member of a newly discovered genus of Auracariacae, chiefly found in mon
 -(e)ta -people group, nation (suffix)
 
 -(e)nta -member of a people group or nation
+
+
+## 8.3 Proper Nouns
 
 Lanôsta- edonym
 
@@ -1332,7 +1350,7 @@ Nasdohmu- the name of a town
 Cernit- the name of the chief town of the speakers of this language.
 
 
-## Prepositional Prefixes for Articles
+## 8.4 Prepositional Prefixes for Articles
 
 dom- about
 
@@ -1462,7 +1480,8 @@ skj- vocative (only for animate nouns, not names)
 
 linji- few
 
-## Verb Particle Prefixes
+
+## 8.5 Verb Particle Prefixes
 
 b- want to
 

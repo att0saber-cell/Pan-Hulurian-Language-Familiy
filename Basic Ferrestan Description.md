@@ -1,5 +1,5 @@
 
-# Phonology
+# 1. Phonology
 
 *This is how the Phonology has been recorded (sounds in IPA)*
 
@@ -93,14 +93,13 @@ Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
 
 Dipthongs: aj, oj,ej, uj, au, eu
 
-# Grammar Summary 
+# 2 Nouns
 
-*provided by a linguistics amateur who was the first to describe the language*
+## 2.1 Basic Noun Information
 
-*Nouns*
--------
+Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four  main vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
 
-Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
+## 2.2 Noun Particle declension
 
 *Animate Article Declension*
 | case | definite singular | indefinite singular | definite plural | indefinite plural |
@@ -108,7 +107,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | nominative | o | e | au | eu |
 | accusative | os | es | au | eus |
 | dative | os | eh | aus | eu w(e)- |
-| comitative | oms | oms | aust | emsk 
+| comitative | oms | oms | aust | emsk |
 | genitive | ot | en | aute | eun |
 
 *Inamimate Article Declension*
@@ -118,6 +117,20 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | accusative | ats | î | â | ojts |
 | dative | ak | il | ojs | ojk |
 | genitive | ad | id | ajd | ojd |
+
+## 2.3 Proper Nouns
+
+Proper nouns do not take an article. Rather, they take on inflectional endings depending on case and number. Included within the category of proper nouns are Personal Names, Group Names, and and the names of specific geographical locations, ships, weapons, other objects, and specific stars and constelations. In addition, scientific terms, such as the names of molecules or elements are proper nouns. Ocasionally, recent loanwords are treated gramatically as proper nouns, and a few other words are as well. Proper nouns display ergativity.
+
+## 2.4 Proper Noun Declension
+
+| case | singular | plural | 
+|---|---|---|
+| ergative | -os | -e |
+| absolutive | - | -es |
+| dative | -dji | -(i)tâ |
+| comitative | -sme, -osme | -sim |
+| genitive | -ot | -n(o) |
 
 ----------------------------------------------------------------
 

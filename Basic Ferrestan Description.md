@@ -194,7 +194,7 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
 
  ## 4.1 Question formation
 
- Questions are formed by placing the particle Kwom or Ukmo in front of the verb. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as isu jesti, isu dest, isu dajke
+ Questions are formed by placing the particle Kwom or Ukmo in front of the verb. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as isu jesti, isu dest, isu dajke, isu sajto, isu njet, or the same phrases swapping isu for emisu are tacked onto the begining of a question, to make plain the fact that the following words are a question.
 
  # 5 Word Order #
 

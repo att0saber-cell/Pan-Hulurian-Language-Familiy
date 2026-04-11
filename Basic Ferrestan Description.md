@@ -258,7 +258,7 @@ o isko isuj ju î jarajh dajdum del
 
 o isko isuj ros î jen dum tmece kjan
 
-7.4
+## 7.4
 
 Jeswe un kmit o jekto ", skjo dajkê, a njet majnsers ktats sinatlo kwom u na?"
 

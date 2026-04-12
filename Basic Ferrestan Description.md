@@ -343,6 +343,8 @@ blask- large, huge, great
 
 itja- inherited responsibility, a reputation strong enough to be passed on to descendants (both positive and negative)
 
+jakôs- livng thing, creatures
+
 tjabre- authority
 
 tja- right

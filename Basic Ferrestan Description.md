@@ -379,7 +379,9 @@ tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
+tekta- to pass
 
+tekwot- to pass on, to inherit
 
 hafbe- fabric, to weave
 

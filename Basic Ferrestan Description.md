@@ -309,6 +309,8 @@ skantiwe- yourselves
 
 kmustwe- yourself
 
+astwotni- banishment, separation from clan or community
+
 kmati- spoon
 
 kimat- to carry

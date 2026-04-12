@@ -351,6 +351,8 @@ durbu- ship
 
 blu- ledge, balcony
 
+nanrohkeldi- a tendancy
+
 krafke- permanent village, fortified place
 
 mlan- tower, stone fort

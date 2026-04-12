@@ -337,6 +337,8 @@ jita- responsibily, duty, expectation
 
 trebfolo- abuse of power, scamming, embezzeling from the community, bribing
 
+kimtjekki- to carry something heavy
+
 blask- large, huge, great
 
 itja- inherited responsibility, a reputation strong enough to be passed on to descendants (both positive and negative)

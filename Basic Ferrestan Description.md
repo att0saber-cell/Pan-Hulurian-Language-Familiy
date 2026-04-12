@@ -93,7 +93,7 @@ Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
 
 Dipthongs: aj, oj,ej, uj, au, eu
 
-1.2 # Mutation
+# 1.2 Mutation
 
 Often, to cope with there being too many vowels or consonants in a row between words, the second word will mutate. This can take the form of either metathesis or the adition of a j or w consonant.
 

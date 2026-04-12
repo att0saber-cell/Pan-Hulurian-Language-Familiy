@@ -1478,7 +1478,7 @@ mint- unilik
 
 numind- via, by way of, by the route of
 
-cs- 
+cs- that, this
 
 seuc- in the same way
 

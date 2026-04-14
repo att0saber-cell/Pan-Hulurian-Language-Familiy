@@ -377,6 +377,8 @@ kotsa- school subject, theme
 
 skor- city
 
+fir- to sieze, to take hold of, to take possession of
+
 tâkamok- employment
 
 kakots- biology
@@ -721,6 +723,8 @@ teu- shirt, small cape or shawl over the shoulders
 
 tmej- cloud
 
+bretmej- season
+
 kreska- bread
 
 sjak- clay
@@ -856,6 +860,14 @@ kkil- providing light, luminscent
 eus- to manipulate an object or material, to form something, to fix, to prepare something
 
 se- rock, stone
+
+stesu- to put into place, to set something down
+
+swaki- to hold, to make secure
+
+kalboj- to raise up, to prepare for someone else's gain,
+
+kalbwo- to do something for the good of another, self sacrifice
 
 jejs- deer
 
@@ -1087,7 +1099,15 @@ fristo- to hunt, to pursue, to search for
 
 firse- sign, marker, symbol
 
+tjansar- dawn
+
 sot- to follow
+
+haj- alert, away
+
+tjasahi- morning
+
+tjaste- evening
 
 fjako- laugh
 

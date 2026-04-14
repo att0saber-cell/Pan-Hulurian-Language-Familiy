@@ -385,6 +385,22 @@ tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
+ki- to open
+
+blate- to close
+
+kitaj, ktaje- to come
+
+te- to move closer, including functions of to come, to bring, to push together
+
+busk- to send, to inspire action, to command
+
+sbikt- to say, tell, name, or command
+
+tjelm- to teach, to tell a story
+
+tjelmbik- coloq. to take notes, record, or write a letter
+
 tekta- to pass
 
 tekwot- to pass on, to inherit

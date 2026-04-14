@@ -447,6 +447,16 @@ ru- but
 
 was- to love, to care for, to nourish
 
+htubem- to like, to enjoy
+
+kmihut- to prefer, to like
+
+stofka- to like, to have affection for
+
+efrotska- to love (in a romantic or as a very intimate familial relation)
+
+klowot- to love (in a less intimate way, to like very much)
+
 klobuk- helmet
 
 sajto- to reason

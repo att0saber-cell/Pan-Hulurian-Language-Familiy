@@ -495,19 +495,13 @@ udri- wood
 
 lwosk- neighbor
 
-ce- I
-
-jom- we
-
-muk- you (singular)
-
-kno- you (plural)
-
-kjan- he/she/it
-
-ika- they
-
 mejma- cause
+
+jend- to come together, to work together
+
+jendek- a team, a group bonded by respect, a group that works together or makes decisions together
+
+jendwoft- the full tribal assembly
 
 stjeki- perfection, flawlessness
 
@@ -693,7 +687,7 @@ caf- a small noise, detail
 
 ajnun- completed and recognized deed
 
-inwa- council, board, assemby, committee (any group that makes decisions for a larger whole by democratic means, traditionally refering to the small councils or committees of respected clan memebers responsible for making most decisions for the clan, or a subgroup of the clan)
+inwa- council, board, assemby, committee (any group that makes decisions for a larger whole by democratic means, traditionally refering to the small councils or committees of ed clan memebers responsible for making most decisions for the clan, or a subgroup of the clan)
 
 jebenkî-mighty
 
@@ -978,6 +972,10 @@ lmirat- grass
 lmitrane- common, pervasive, everywhere
 
 henau- rope
+
+cerjesde- to observe, to witness
+
+certi-  to bear witness
 
 he- to twist
 

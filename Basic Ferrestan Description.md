@@ -569,6 +569,8 @@ kjaso- door
 
 kisa- roof
 
+ritu, rjut- beam
+
 bfolô- a dishonest person
 
 knidel- penguin

@@ -771,7 +771,7 @@ koreld- a very beautiful person
 
 ber- reversal, undoing
 
-smilno- a legenday folk, sometimes small, sometimes not (depending on story), sometimes magical, sometimes not (depending on story), usually considered excellent craftsmen and often considered beautiful
+smilno- a legendary folk, sometimes small, sometimes not (depending on story), sometimes magical, sometimes not (depending on story), usually considered excellent craftsmen and often considered beautiful
 
 mon- distant, hazy
 
@@ -1187,7 +1187,7 @@ tah- rain
 
 kîsjas- river
 
-suneski- sea
+eski- sea
 
 elrud- salt
 
@@ -1228,6 +1228,28 @@ sothojd- black
 ihau- night
 
 ibwan- day
+
+jelmbwan- today
+
+winra- tommorrow
+
+skaj- upstream, root of in the future, on the way, and origin
+
+stuka- downstream, root of in the past, already gone or missed, and destination
+
+stubkan- yesterday
+
+rend- a week
+
+redu- a segment, a portion, a shift (as in a shift on a job)
+
+knjured- a month
+
+almlo- an hour
+
+jes- a year
+
+jesend- a nine year period, also the name of a feast every nine years, and a tribal council of all the clans that is to take place then
 
 klodmoj- warm
 

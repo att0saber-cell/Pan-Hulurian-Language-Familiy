@@ -301,7 +301,7 @@ kje, jeki- notch, pass
 
 monku- bowl, a bowl shaped valley or dent in a mountian
 
-bir- steap
+bir- steep, too steep to be traversed
 
 sbari- to wander aimlessly or pointlessly, coloq. to go for an lesiurely stroll or hike
 
@@ -826,6 +826,8 @@ somren- mountain range
 kata- action
 
 jak- life
+
+knadir- clif
 
 jan- sapling, teenager
 

@@ -1384,7 +1384,9 @@ dubens- member of a newly discovered genus of Auracariacae, chiefly found in mon
 
 -(e)r - more 
 
--(e)rs
+-(e)rs - most
+
+-ust, -sut - negation
 
 -stol -farm or small settlement (suffix)
 
@@ -1484,7 +1486,7 @@ hbaj- during
 
 n- for
 
-r- 
+r- negation
 
 alk- from
 
@@ -1591,7 +1593,7 @@ l- would
 
 m- might, may, possibly
 
-r-
+r- might not, may not
 
 n- probably
 

@@ -134,7 +134,7 @@ Proper nouns do not take an article. Rather, they take on inflectional endings d
 |---|---|---|
 | ergative | -os | -e |
 | absolutive | - | -es |
-| dative | -dji | -(i)tâ |
+| dative | -(d)ji | -(i)tâ |
 | comitative | -sme, -osme | -sim |
 | genitive | -ot | -n(o) |
 

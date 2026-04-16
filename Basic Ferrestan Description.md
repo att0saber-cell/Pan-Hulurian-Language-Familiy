@@ -1,5 +1,5 @@
 
-# Phonology
+# 1. Phonology
 
 *This is how the Phonology has been recorded (sounds in IPA)*
 
@@ -93,14 +93,19 @@ Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
 
 Dipthongs: aj, oj,ej, uj, au, eu
 
-# Grammar Summary 
+# 1.2 Mutation
 
-*provided by a linguistics amateur who was the first to describe the language*
+Often, to cope with there being too many vowels or consonants in a row between words, the second word will mutate. This can take the form of either metathesis or the adition of a j or w consonant.
 
-*Nouns*
--------
+IF there are to many consonants in a row, oftentimes the second word will metathesize to put a vowel at the begining of the word. For instance, a phrase like A lwosk stjeki would mutate into A lwosk isteki. In such circumstances, a j or w consonant can mutate into an i, u, or o vowel. If there are too many vowels in a row, a phrase like stu ojmad might mutate to stu jomad, though this type of metathesis is less constant in its application.
 
-Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
+# 2 Nouns
+
+## 2.1 Basic Noun Information
+
+Nouns are divided into two genders, animate and inanimate. Animate nouns include everything the speaker perscieves to have humanlike characteristics and abstract concepts, while inanimate nouns include everything else. Most grammatical work on nouns seems to be done by a sort of inflected article. These articles include a vowel base, with a consonant placed afterwards to indicate case, and up to two syllables before hand serving the purpose of any preposition, as well as some other purposes. There are four  main vowel bases for these articles, for the animate nouns there is 'o' for definite nouns and 'e' for indefinite nouns. For inanimate nouns, 'a' and 'i' serve the same purpose. These articles follow the structure (preposition)+vowel base+(case marker).
+
+## 2.2 Noun Particle declension
 
 *Animate Article Declension*
 | case | definite singular | indefinite singular | definite plural | indefinite plural |
@@ -108,7 +113,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | nominative | o | e | au | eu |
 | accusative | os | es | au | eus |
 | dative | os | eh | aus | eu w(e)- |
-| comitative | oms | oms | aust | emsk 
+| comitative | oms | oms | aust | emsk |
 | genitive | ot | en | aute | eun |
 
 *Inamimate Article Declension*
@@ -119,9 +124,21 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 | dative | ak | il | ojs | ojk |
 | genitive | ad | id | ajd | ojd |
 
-----------------------------------------------------------------
+## 2.3 Proper Nouns
 
-*Personal Pronouns*
+Proper nouns do not take an article. Rather, they take on inflectional endings depending on case and number. Included within the category of proper nouns are Personal Names, Group Names, and and the names of specific geographical locations, ships, weapons, other objects, and specific stars and constelations. In addition, scientific terms, such as the names of molecules or elements are proper nouns. Ocasionally, recent loanwords are treated gramatically as proper nouns, and a few other words are as well. Proper nouns display ergativity.
+
+## 2.4 Proper Noun Declension
+
+| case | singular | plural | 
+|---|---|---|
+| ergative | -os | -e |
+| absolutive | - | -es |
+| dative | -(d)ji | -(i)tâ |
+| comitative | -sme, -osme | -sim |
+| genitive | -ot | -n(o) |
+
+*3 Personal Pronouns*
 -------------------
 
 *First Person Pronoun Declension*
@@ -164,7 +181,7 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 
 ----------------------------------------------------------------
 
-*Verbs*
+# 4 Verbs #
 ------
 
 Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
@@ -181,11 +198,20 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
  
  imperitive formed with prefix ts- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
 
+ ## 4.1 Question formation
+
+ Questions are formed by placing the particle Kwom or Ukmo in front of the TAM article. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as isu jesti, isu dest, isu dajke, isu sajto, isu njet, or the same phrases swapping isu for emisu are tacked onto the begining of a question, to make plain the fact that the following words are a question. Other participle phrases are used for the same purpose, often with verbs like permit, like, enjoy, want, see, or seek.
+
+ ## 4.2 Negation
+
+ Negation of a sentence is done through a prefix on the TAM article. 
+
+ # 5 Word Order #
+
 The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
 
-This is as much as I can describe of the grammar. I am not an expert in this field, and one should be sent in due time to fully describe this fascinating language.
 
-# Conjugation of root /daj/ -meaning wise- with an example preposition
+# 6 Conjugation of root /daj/ -meaning wise- with an example preposition
 
 daj- wise adj (often used adverbially). Also seen in names or as a particle or interjection.
 
@@ -196,22 +222,23 @@ Wisdom could also be conjugated as a sapient noun, to refer to intangible or abs
 e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. eh ajdkê, eu wajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os: ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
 
 u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous uf dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
-In my next visit, I intend to fully document the forms of various pronouns
 
 
-# Example Texts (translations provided after texts)
+# 7 Example Texts (translations provided after texts)
+
+## 7.1
 
 Numindaust asintê, jom u dest.
 
 By way of the memory keepers, we know. (common way to start a story)
 
----------
+## 7.2
 
 Tsu hjawe, î bralme fun celko ceseu. Elma tsu kereu
 
 Listen, I have bought time. Now make use of it.
 
-----------
+## 7.3
 
 eu hjarsk u bojt namojs tekja ikâ
 
@@ -231,8 +258,18 @@ o isko isuj ju î jarajh dajdum del
 
 o isko isuj ros î jen dum tmece kjan
 
+## 7.4
 
-# Lexicon
+Jeswe un kmit o jekto ", skjo dajkê, a njet majnsers ktats sinatlo kwom u na?"
+
+Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko. Je wu jims man mejns ktats sinatlo. Wins ihu. Kno du was o lwosk musk, kmustwe seucisu was kno u na. Biswam u jik bjats nejt wins na.
+
+Re jestam fu bfolo stu jomad os stjeki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot. Je,i du tekwot e nanrohkeldij id bfolo, jemu estam du kimtjekki os itja ad bfolol. O itja na u mejma kmu mejma o face jestam aus isko estam manaus jakôs estam. Jom fun homad objos lo ot was Annjot a nanrohkeldi na.
+
+
+# 8 Lexicon
+
+## 8.1 Words and Root Words
 
 dubtau- highland
 
@@ -264,6 +301,16 @@ kje, jeki- notch, pass
 
 monku- bowl, a bowl shaped valley or dent in a mountian
 
+bir- steep, too steep to be traversed
+
+sbari- to wander aimlessly or pointlessly, coloq. to go for an lesiurely stroll or hike
+
+skantiwe- yourselves
+
+kmustwe- yourself
+
+astwotni- banishment, separation from clan or community
+
 kmati- spoon
 
 kimat- to carry
@@ -290,9 +337,15 @@ retlo- revulsion, disgust, a strong negative emotion that keeps one away from an
 
 jita- responsibily, duty, expectation
 
-trebfolo- abuse of power, scamming, embezzeling from the community, bribingblask- large, huge, great
+trebfolo- abuse of power, scamming, embezzeling from the community, bribing
+
+kimtjekki- to carry something heavy
+
+blask- large, huge, great
 
 itja- inherited responsibility, a reputation strong enough to be passed on to descendants (both positive and negative)
+
+jakôs- livng thing, creatures
 
 tjabre- authority
 
@@ -303,6 +356,8 @@ ere- loud, noisy
 durbu- ship
 
 blu- ledge, balcony
+
+nanrohkeldi- a tendancy
 
 krafke- permanent village, fortified place
 
@@ -322,6 +377,8 @@ kotsa- school subject, theme
 
 skor- city
 
+fir- to sieze, to take hold of, to take possession of
+
 tâkamok- employment
 
 kakots- biology
@@ -329,6 +386,26 @@ kakots- biology
 tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
+
+ki- to open
+
+blate- to close
+
+kitaj, ktaje- to come
+
+te- to move closer, including functions of to come, to bring, to push together
+
+busk- to send, to inspire action, to command
+
+sbikt- to say, tell, name, or command
+
+tjelm- to teach, to tell a story
+
+tjelmbik- coloq. to take notes, record, or write a letter
+
+tekta- to pass
+
+tekwot- to pass on, to inherit
 
 hafbe- fabric, to weave
 
@@ -384,7 +461,19 @@ twira- soak, absorb, a rag or sponge
 
 tjaur- to learn quickly, to understand quickly, or easily
 
+ru- but
+
 was- to love, to care for, to nourish
+
+htubem- to like, to enjoy
+
+kmihut- to prefer, to like
+
+stofka- to like, to have affection for
+
+efrotska- to love (in a romantic or as a very intimate familial relation)
+
+klowot- to love (in a less intimate way, to like very much)
 
 klobuk- helmet
 
@@ -392,23 +481,29 @@ sajto- to reason
 
 sito- dock, landing site for a boat, airplane runway
 
+njet- instruction, directive
+
+sjant- an established practice, tradition
+
+mejns- prominent, important
+
+anklike- very bright, glorius, brilliant
+
 asinte- memory
 
 udri- wood
 
-ce- I
-
-jom- we
-
-muk- you (singular)
-
-kno- you (plural)
-
-kjan- he/she/it
-
-ika- they
+lwosk- neighbor
 
 mejma- cause
+
+jend- to come together, to work together
+
+jendek- a team, a group bonded by respect, a group that works together or makes decisions together
+
+jendwoft- the full tribal assembly
+
+stjeki- perfection, flawlessness
 
 dest- know
 
@@ -496,6 +591,8 @@ kjaso- door
 
 kisa- roof
 
+ritu, rjut- beam
+
 bfolô- a dishonest person
 
 knidel- penguin
@@ -517,6 +614,8 @@ kit- ice, freeze
 kelî- water (esp. fresh)
 
 arub- ocean, seawater
+
+askit- spill
 
 hujo- father
 
@@ -565,6 +664,8 @@ kim- mountain
 eda- horn
 
 jekad- horn (musical instrument)
+
+sinatlo- The Law
 
 amĵesband- shield
 
@@ -615,6 +716,8 @@ tmeto- sky
 teu- shirt, small cape or shawl over the shoulders
 
 tmej- cloud
+
+bretmej- season
 
 kreska- bread
 
@@ -682,7 +785,7 @@ koreld- a very beautiful person
 
 ber- reversal, undoing
 
-smilno- a legenday folk, sometimes small, sometimes not (depending on story), sometimes magical, sometimes not (depending on story), usually considered excellent craftsmen and often considered beautiful
+smilno- a legendary folk, sometimes small, sometimes not (depending on story), sometimes magical, sometimes not (depending on story), usually considered excellent craftsmen and often considered beautiful
 
 mon- distant, hazy
 
@@ -718,6 +821,8 @@ kata- action
 
 jak- life
 
+knadir- clif
+
 jan- sapling, teenager
 
 arje- dusk, an end
@@ -752,6 +857,14 @@ eus- to manipulate an object or material, to form something, to fix, to prepare 
 
 se- rock, stone
 
+stesu- to put into place, to set something down
+
+swaki- to hold, to make secure
+
+kalboj- to raise up, to prepare for someone else's gain,
+
+kalbwo- to do something for the good of another, self sacrifice
+
 jejs- deer
 
 jo- fire
@@ -771,6 +884,10 @@ nat - who
 na- what
 
 keba- where
+
+ukmo, kwom- question marking particle
+
+kmit- question, inquiry, to ask
 
 fak- when
 
@@ -856,6 +973,10 @@ lmitrane- common, pervasive, everywhere
 
 henau- rope
 
+cerjesde- to observe, to witness
+
+certi-  to bear witness
+
 he- to twist
 
 abra- skin
@@ -902,9 +1023,13 @@ rjasta- to support, a support, foundation, or base
 
 sitre- leg
 
+dlirsko- humanness, one's humanity, the human spirit
+
 ktutu- knee
 
 kmortu- hand
+
+delri- essence, essential quality, a defining characteristic, verb form to distil, coloq. a type of alcohol
 
 smaroktwa- to assist, to help, a close companion or friend
 
@@ -974,7 +1099,15 @@ fristo- to hunt, to pursue, to search for
 
 firse- sign, marker, symbol
 
+tjansar- dawn
+
 sot- to follow
+
+haj- alert, away
+
+tjasahi- morning
+
+tjaste- evening
 
 fjako- laugh
 
@@ -1090,7 +1223,7 @@ tah- rain
 
 kîsjas- river
 
-suneski- sea
+eski- sea
 
 elrud- salt
 
@@ -1131,6 +1264,28 @@ sothojd- black
 ihau- night
 
 ibwan- day
+
+jelmbwan- today
+
+winra- tommorrow
+
+skaj- upstream, root of in the future, on the way, and origin
+
+stuka- downstream, root of in the past, already gone or missed, and destination
+
+stubkan- yesterday
+
+rend- a week
+
+redu- a segment, a portion, a shift (as in a shift on a job)
+
+knjured- a month
+
+almlo- an hour
+
+jes- a year
+
+jesend- a nine year period, also the name of a feast every nine years, and a tribal council of all the clans that is to take place then
 
 klodmoj- warm
 
@@ -1218,6 +1373,9 @@ isko, siko- a person
 
 dubens- member of a newly discovered genus of Auracariacae, chiefly found in montane and subalpine forests, but also in some lowland temperate rainforests
 
+
+## 8.2 Formative Suffixes
+
 -du -highland (suffix)
 
 -as -watercourse (suffix)
@@ -1226,7 +1384,9 @@ dubens- member of a newly discovered genus of Auracariacae, chiefly found in mon
 
 -(e)r - more 
 
--(e)rs
+-(e)rs - most
+
+-ust, -sut - negation
 
 -stol -farm or small settlement (suffix)
 
@@ -1241,6 +1401,9 @@ dubens- member of a newly discovered genus of Auracariacae, chiefly found in mon
 -(e)ta -people group, nation (suffix)
 
 -(e)nta -member of a people group or nation
+
+
+## 8.3 Proper Nouns
 
 Lanôsta- edonym
 
@@ -1281,7 +1444,7 @@ Nasdohmu- the name of a town
 Cernit- the name of the chief town of the speakers of this language.
 
 
-## Prepositional Prefixes for Articles
+## 8.4 Prepositional Prefixes for Articles
 
 dom- about
 
@@ -1323,7 +1486,7 @@ hbaj- during
 
 n- for
 
-r- because
+r- negation
 
 alk- from
 
@@ -1385,15 +1548,15 @@ ojl- until
 
 wan- on top of
 
-olw-
+olw- because
 
 mint- unilik
 
 numind- via, by way of, by the route of
 
-cs- 
+cs- that, this
 
-seuc-
+seuc- in the same way
 
 se- feminine indicator
 
@@ -1407,9 +1570,12 @@ st- not, no, none, un-, dis-
 
 tul- many
 
+skj- vocative (only for animate nouns, not names)
+
 linji- few
 
-## Verb Particle Prefixes
+
+## 8.5 Verb Particle Prefixes
 
 b- want to
 
@@ -1427,7 +1593,7 @@ l- would
 
 m- might, may, possibly
 
-r-
+r- might not, may not
 
 n- probably
 

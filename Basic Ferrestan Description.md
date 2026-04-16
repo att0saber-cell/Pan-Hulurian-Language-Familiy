@@ -687,7 +687,7 @@ caf- a small noise, detail
 
 ajnun- completed and recognized deed
 
-inwa- council, board, assemby, committee (any group that makes decisions for a larger whole by democratic means, traditionally refering to the small councils or committees of ed clan memebers responsible for making most decisions for the clan, or a subgroup of the clan)
+inwa- council, board, assemby, committee (any group that makes decisions for a larger whole by democratic means, traditionally refering to the small councils or committees of respected clan memebers responsible for making most decisions for the clan, or a subgroup of the clan)
 
 jebenkî-mighty
 

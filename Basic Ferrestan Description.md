@@ -388,6 +388,8 @@ tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
+ilmerk- calm
+
 ki- to open
 
 blate- to close

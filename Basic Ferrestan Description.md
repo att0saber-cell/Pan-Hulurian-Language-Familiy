@@ -1248,6 +1248,8 @@ kmid- red
 
 rauto- yellow
 
+kbil- to recover, to regain, return
+
 afcer- green
 
 lafec- dark green

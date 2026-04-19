@@ -348,6 +348,8 @@ itja- inherited responsibility, a reputation strong enough to be passed on to de
 
 jakôs- livng thing, creatures
 
+lûska- to want, desire
+
 tjabre- authority
 
 tja- right

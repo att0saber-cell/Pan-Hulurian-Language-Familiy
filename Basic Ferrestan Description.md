@@ -1634,6 +1634,6 @@ is- adjective, participle marker
 
 km- certainly
 
-mje- thus
+mje- thus, with the purpose of
 
 st(u)-, sut- negation (can stack before other prefixes)

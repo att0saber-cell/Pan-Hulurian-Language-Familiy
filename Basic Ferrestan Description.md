@@ -360,6 +360,8 @@ jakôs- livng thing, creatures
 
 lûska- to want, desire
 
+kbil- to recover, to regain, return
+
 tjabre- authority
 
 tja- right

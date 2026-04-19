@@ -474,6 +474,8 @@ klem- constant, consistant, steady, reliable
 
 twira- soak, absorb, a rag or sponge
 
+hjoki- hurt, pain
+
 tjaur- to learn quickly, to understand quickly, or easily
 
 ru- but

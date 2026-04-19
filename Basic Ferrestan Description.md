@@ -296,6 +296,8 @@ amwo- deep (meaning projecting far into something)
 
 trabu- wave
 
+trabuse- an impermanent thing, impermanence
+
 edajn- plateau, tableand
 
 dekli- shoal, reef, long rock

@@ -310,6 +310,10 @@ bir- steep, too steep to be traversed
 
 sbari- to wander aimlessly or pointlessly, coloq. to go for an lesiurely stroll or hike
 
+janne- young
+
+ajnen- youth
+
 skantiwe- yourselves
 
 kmustwe- yourself
@@ -1521,7 +1525,7 @@ sûm- by (passing by)
 
 nan- down, down to
 
-hbaj- during
+hbaj- during, while
 
 n- for
 

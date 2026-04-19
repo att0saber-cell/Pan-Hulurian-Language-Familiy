@@ -294,6 +294,8 @@ wodjek- valley
 
 amwo- deep (meaning projecting far into something)
 
+dojna- flavor
+
 trabu- wave
 
 trabuse- an impermanent thing, impermanence

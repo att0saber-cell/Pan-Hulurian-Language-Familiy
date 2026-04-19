@@ -318,6 +318,8 @@ astwotni- banishment, separation from clan or community
 
 kmati- spoon
 
+breket, brekt- of great quantity, quality, or number
+
 kimat- to carry
 
 kimna- channel

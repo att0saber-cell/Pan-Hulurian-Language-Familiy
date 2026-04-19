@@ -90,7 +90,7 @@ w
 
 The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong. The circumflex may be placed over a vowel or a j.
 
-Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
+Voiced stops, fricatives, and affricates are devoiced when proceeding a voiceless one, and vice versa. The exception to this rule is the k, which always devoices the consonants it clusters with, kb is pronounced /xp/, kd is pronounced /kθ/
 
 Dipthongs: aj, oj,ej, uj, au, eu
 

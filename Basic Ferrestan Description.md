@@ -1032,6 +1032,8 @@ tartme- fat
 
 kwe- egg
 
+kujka- the things of life, the actions, pleasures, times, and events of life or of history
+
 fikjo- to rest
 
 larnau- tail
@@ -1039,6 +1041,8 @@ larnau- tail
 runa- to reach (for something)
 
 ojmad- to attain, to achieve, to reach (something)
+
+sjotam- to lose something, to fall short of something
 
 asto- hair
 

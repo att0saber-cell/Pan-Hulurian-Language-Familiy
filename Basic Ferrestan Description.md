@@ -1513,6 +1513,8 @@ mik- over
 
 ljem- though
 
+djet- in the state of
+
 kbet- through
 
 es- to, toward

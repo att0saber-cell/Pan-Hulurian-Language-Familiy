@@ -1567,6 +1567,10 @@ cs- that, this
 
 seuc- in the same way
 
+ktj- away, away from
+
+dm- apart, apart from
+
 se- feminine indicator
 
 sê- masculine indicator

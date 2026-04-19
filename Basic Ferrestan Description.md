@@ -468,6 +468,8 @@ hi- seven
 
 erfo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
 
+tsane- enough, sufficent
+
 klem- constant, consistant, steady, reliable
 
 twira- soak, absorb, a rag or sponge
@@ -867,6 +869,8 @@ wesse- bronze
 kkil- providing light, luminscent
 
 eus- to manipulate an object or material, to form something, to fix, to prepare something
+
+mjesum- to plan, to inted
 
 se- rock, stone
 
@@ -1627,5 +1631,7 @@ t- wisht to
 is- adjective, participle marker
 
 km- certainly
+
+mje- thus
 
 st(u)-, sut- negation (can stack before other prefixes)

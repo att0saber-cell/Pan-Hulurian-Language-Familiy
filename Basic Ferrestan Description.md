@@ -886,9 +886,11 @@ kkil- providing light, luminscent
 
 eus- to manipulate an object or material, to form something, to fix, to prepare something
 
-mjesum- to plan, to inted
+mjesum- to plan, to intend
 
 se- rock, stone
+
+bejus- to create
 
 stesu- to put into place, to set something down
 

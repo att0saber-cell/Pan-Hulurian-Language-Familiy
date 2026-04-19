@@ -362,6 +362,8 @@ durbu- ship
 
 blu- ledge, balcony
 
+bliran- to rescue, to save
+
 nanrohkeldi- a tendancy
 
 krafke- permanent village, fortified place

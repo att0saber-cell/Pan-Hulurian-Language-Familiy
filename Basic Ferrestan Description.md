@@ -344,6 +344,10 @@ retlo- revulsion, disgust, a strong negative emotion that keeps one away from an
 
 jita- responsibily, duty, expectation
 
+knembon- to have, to posess, to hold with you
+
+lofir- to legally own
+
 trebfolo- abuse of power, scamming, embezzeling from the community, bribing
 
 kimtjekki- to carry something heavy

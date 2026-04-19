@@ -1330,6 +1330,8 @@ skel- wet
 
 steske- dry
 
+kbirn- to remain, to persist, to persist existing in the same way
+
 esti- true, correct, honest
 
 dorle- near, well defined, apparant

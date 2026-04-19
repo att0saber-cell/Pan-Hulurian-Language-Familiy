@@ -1491,6 +1491,8 @@ hbaj- during
 
 n- for
 
+bit- rather
+
 r- negation
 
 alk- from

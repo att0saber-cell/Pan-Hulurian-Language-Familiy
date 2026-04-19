@@ -267,6 +267,8 @@ Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko.
 
 Re jestam fu bfolo stu jomad os stjeki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot. Je,i du tekwot e nanrohkeldij id bfolo, jemu estam du kimtjekki os itja ad bfolol. O itja na u mejma kmu mejma o face jestam aus isko estam manaus jakôs estam. Jom fun homad objos lo ot was Annjot a nanrohkeldi na.
 
+Jom kmedu face ihi kelî isfun askit, na stusu kbil. Ru na stu lûska Annjos, bisje kjan u jeus â rohekba, na isu mejma bjetoms aswotni dmo kinast stu kbilr e siko aswotnje.
+
 
 # 8 Lexicon
 

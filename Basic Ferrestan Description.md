@@ -420,6 +420,8 @@ busk- to send, to inspire action, to command
 
 sbikt- to say, tell, name, or command
 
+kbil- to recover, to regain, return
+
 tjelm- to teach, to tell a story
 
 tjelmbik- coloq. to take notes, record, or write a letter

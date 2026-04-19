@@ -338,7 +338,7 @@ dokol- trust
 
 lo- pasture, hunting ground, field, or fishery owned or claimed by a particular individual or clan
 
-ojl- hinderance, barier, in martial context hastily erected or makeshift fortifications
+ojl- hinderance, barier, in martial context hastily erected or makeshift fortifications 
 
 retlo- revulsion, disgust, a strong negative emotion that keeps one away from an action, strong dislike
 
@@ -450,7 +450,7 @@ je- this (indicating to something physical, feelable, or visible, that is percie
 
 ewa- that (indicating to something physical, feelable, or visible, that is percieved or able to be percieved in the present)
 
-iskoje- those, the ones, the people who
+iskoje- the one who, the person who
 
 herbi- ash
 

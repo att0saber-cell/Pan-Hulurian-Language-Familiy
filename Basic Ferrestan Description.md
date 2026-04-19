@@ -382,6 +382,8 @@ rafbu- sail
 
 csubi- photo
 
+irwaj- to know somebody, to be familiar with them
+
 têrne- train
 
 kotsa- school subject, theme
@@ -444,9 +446,11 @@ biha- shirt
 
 arjac- pin (esp for a cloak)
 
-je- this
+je- this (indicating to something physical, feelable, or visible, that is percieved or able to be percieved in the present)
 
-ewa- that
+ewa- that (indicating to something physical, feelable, or visible, that is percieved or able to be percieved in the present)
+
+iskoje- those, the ones, the people who
 
 herbi- ash
 
@@ -1348,6 +1352,8 @@ kbirn- to remain, to persist, to persist existing in the same way
 
 esti- true, correct, honest
 
+stibje- to believe
+
 dorle- near, well defined, apparant
 
 rel- ti startle
@@ -1579,7 +1585,7 @@ mint- unilik
 
 numind- via, by way of, by the route of
 
-cs- that, this
+cs- that, this 
 
 seuc- in the same way
 

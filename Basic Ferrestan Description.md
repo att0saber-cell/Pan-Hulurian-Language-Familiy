@@ -269,7 +269,7 @@ Re jestam fu bfolo stu jomad os stjeki Annjot. Kmum face jom, jemu alkisuj sbary
 
 Jom kmedu face ihi kelî isfun askit, na stusu kbil. Ru na stu lûska Annjos, bisje kjan u jeus â rohekba, na isu mejma djetoms aswotni dmo kinast stu kbirn e siko aswotnje.
 
-Jeswe o josu Jawjot maneus isko un kitaj isuj fristo manisuj bliran aus sbarî. Anni u was u stofka u klowot u ferotska brekt, os osu ji kjans mjeum enhjoki mjeum facem kjan un busk, o was tsane mjeu mjema. Jeswos kmufu fir aute jitja jomê. Na fu mjema au iskoje isu stibje kinast stum face bitu knembon stambwan os jak. Na u swe a deje Annjot. O iskoje isu riwaj isu dokol isu sot Jeswe kmum kbil esos lo ot was Annjot, na u swa o loj ot jak.
+Jeswe o josu Jawjot maneun isko un kitaj isuj fristo manisuj bliran aus sbarî. Anni u was u stofka u klowot u ferotska brekt, os osu ji kjans mjeum enhjoki mjeum facem kjan un busk, o was tsane mjeu mjema. Jeswos kmufu fir aute jitja jomê. Na fu mjema au iskoje isu stibje kinast stum face bitu knembon stambwan os jak. Na u swe a deje Annjot. O iskoje isu riwaj isu dokol isu sot Jeswe kmum kbil esos lo ot was Annjot, na u swa o loj ot jak.
 
 Os bejus musk tsu numindeu hbajkte janen, eu kujka jestam manau bretmej estam ikwu sjotam es dojna mrojd.
 

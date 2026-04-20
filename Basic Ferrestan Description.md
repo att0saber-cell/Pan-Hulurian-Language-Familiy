@@ -358,6 +358,8 @@ lofir- to legally own
 
 trebfolo- abuse of power, scamming, embezzeling from the community, bribing
 
+eswe- to be formed out of, noun form meaning material or substance
+
 kimtjekki- to carry something heavy
 
 blask- large, huge, great

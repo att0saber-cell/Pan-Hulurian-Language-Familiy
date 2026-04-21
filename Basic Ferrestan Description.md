@@ -582,6 +582,8 @@ wefês- horse (esp. large or war horse)
 
 sut, stu- negation particle
 
+njabsku, njabusk- to bless
+
 anês- riding animal, pack animla (horse, camel, etc)
 
 fjajnd- grain (esp wheat)

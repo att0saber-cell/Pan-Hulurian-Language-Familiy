@@ -420,7 +420,9 @@ tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
-ilmerk- calm
+ilmerk- calm,
+
+ilmerkis- internal peace
 
 ki- to open
 
@@ -625,6 +627,8 @@ fti- hearth, controled fire, what makes a dwelling a home
 dohmu- a gorge or steep valley
 
 dohne- crooked, rugged
+
+lakmin- peace (external)
 
 bik- ballpoint pen (colloquially used to refer to any pen or pencil)
 

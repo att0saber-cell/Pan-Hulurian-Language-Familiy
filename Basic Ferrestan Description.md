@@ -1062,6 +1062,8 @@ rilbo- ear
 
 icni- eye
 
+fince- face
+
 bilbo- nose
 
 eta- mouth
@@ -1171,6 +1173,8 @@ fjaktwa- happy
 te- sleep
 
 cerje- see
+
+cerince- gaze
 
 amba- hear
 

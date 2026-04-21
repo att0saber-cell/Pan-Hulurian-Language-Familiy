@@ -1408,7 +1408,7 @@ an- a large, carnivorous mamal sp.
 
 kjedas- a medium sized mountain steam, small river, or brook
 
-kih- bright
+kih- bright, to shine
 
 daj- wise
 

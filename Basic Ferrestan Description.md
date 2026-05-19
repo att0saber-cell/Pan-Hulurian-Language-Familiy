@@ -412,6 +412,8 @@ skor- city
 
 fir- to sieze, to take hold of, to take possession of
 
+abralo- exceedingly good
+
 tâkamok- employment
 
 kakots- biology

@@ -14,12 +14,14 @@ b
  - /bʲ/ before a circumflex
 
 c
- - /c͜ɕ/
- - /ʈʲ/ before circumflex
+ - /c/
+ - /ʈ͜ɕʲ/ before circumflex  
 
 d
  - /ð/
- - /d/ after /n/, /l/, or /h/
+ - /θ/ when following a /x/
+ - /d/ after /n/ or /l/
+ - /ɖ/ after an h
  - /ʐʲ/ before a circumflex
 
 e 

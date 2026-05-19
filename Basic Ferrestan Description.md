@@ -9,7 +9,7 @@ a
 
 b
  - /b/
- - /β/ when preceeding /l/, /r/, /m/, or /w/
+ - /β/ when preceeding r or m
  - /p/ when preceding a voiceles consonant, or in word final position
  - /bʲ/ before a circumflex
 
@@ -20,7 +20,7 @@ c
 d
  - /ð/
  - /θ/ when following a /x/
- - /d/ after /n/ or /l/
+ - /d/ after /n/ or /ɫ/
  - /ɖ/ after an h
  - /ʐʲ/ before a circumflex
 
@@ -32,7 +32,7 @@ f
  - /ɸ/ ~ /f/
  - /f/ before a s or h
  - /p/ when an intervocalic consonant
- - p͜fʲ befor a circumflex
+ - /p͜fʲ/ befor a circumflex
 
 h
  - /ꞎ/

@@ -265,7 +265,15 @@ Jeswe un kmit o jekto ", skjo dajkê, a njet majnsers ktats sinatlo kwom u na?"
 
 Kjan un it ",kno du was Jawjos Anni doms kolkmat mandoms sajtô mandoms dlirsko. Je wu jims man mejns ktats sinatlo. Wins ihu. Kno du was o lwosk musk, kmustwe seucisu was kno u na. Biswam u jik bjats nejt wins na.
 
-Re jestam fu bfolo stu jomad os stjeki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot. Je,i du tekwot e nanrohkeldij id bfolo, jemu estam du kimtjekki os itja ad bfolol. O itja na u mejma kmu mejma o face jestam aus isko estam manaus jakôs estam. Jom fun homad objos lo ot was Annjot a nanrohkeldi na.
+Re jestam fu bfolo stu jomad os stjeki Annjot. Kmum face jom, jemu alkisuj sbary os lo ot was Annjot. Jemu du tekwot e nanrohkeldij id bfolo, jemu estam du kimtjekki os itja ad bfolol. O itja na u mejma kmu mejma o face jestam aus isko estam manaus jakôs estam. Jom fun homan objos lo ot was Annjot a nanrohkeldi na.
+
+Jom kmedu face ihi kelî isfun askit, na stusu kbil. Ru na stu lûska Annjos, bisje kjan u jeus â rohekba, na isu mejma djetoms aswotni dmo kinast stu kbirn e siko aswotnje.
+
+Jeswe o josu Jawjot maneun isko un kitaj isuj fristo manisuj bliran aus sbarî. Anni u was u stofka u klowot u ferotska brekt, os osu ji kjans mjeum enhjoki mjeum facem kjan un busk, o was tsane mjeu mjema. Jeswos kmufu fir aute jitja jomê. Na fu mjema au iskoje isu stibje kinast stum face bitu knembon stambwan os jak. Na u swe a deje Annjot. O iskoje isu riwaj isu dokol isu sot Jeswe kmum kbil esos lo ot was Annjot, na u swa o loj ot jak.
+
+Os bejus musk tsu numindeu hbajkte janen, eu kujka jestam manau bretmej estam ikwu sjotam es dojna mrojd.
+
+Jeswos fun tjalm na mukwo, was iskmu eswe os kalbo u na.
 
 
 # 8 Lexicon
@@ -313,6 +321,8 @@ kmustwe- yourself
 astwotni- banishment, separation from clan or community
 
 kmati- spoon
+
+breket, brekt- of great quantity, quality, or number
 
 kimat- to carry
 
@@ -1327,6 +1337,8 @@ artôs- ring, circle
 skel- wet
 
 steske- dry
+
+kbirn- to remain, to persist, to persist existing in the same way
 
 esti- true, correct, honest
 

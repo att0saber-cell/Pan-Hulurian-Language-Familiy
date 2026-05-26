@@ -328,6 +328,10 @@ skantiwe- yourselves
 
 kmustwe- yourself
 
+itwe, jute- the same, identical, as a suffix can be used to indicate or emphasize that a thing is the same as what was being talked about before, or can be used to create metaphors and draw comparasins by stating that one thing is the same as another
+
+tsir- oneself, the sense of self, ones own body or mind
+
 astwotni- banishment, separation from clan or community
 
 kmati- spoon
@@ -378,7 +382,7 @@ lûska- to want, desire
 
 kbil- to recover, to regain, return
 
-tjabre- authority
+tjabre- authority 
 
 tja- right
 
@@ -388,17 +392,21 @@ durbu- ship
 
 blu- ledge, balcony
 
+blujk- location or habitual location of someone or something, one's spot or place, lit. one's standing ledge
+
+tjereblujk- a large habitation, town or city of over a few hundred people, colloquilally used to refer to a habitation larger than your hometown
+
 bliran- to rescue, to save
 
 nanrohkeldi- a tendancy
 
-krafke- permanent village, fortified place
+krafke- permanent village, fortified place, also used to refer to the chief settlement of a clan, or a village of over a hundred people. Those who live in smaller habitations often refer colloquially to these as oj tjereblujk or half jokingly as oj skor
 
-mlan- tower, stone fort
+mlan- tower, stone fort, castle
 
 man- upright, quickly risin
 
-arfki- cloak, blanket
+arfki, arfik- cloak, blanket
 
 rafbu- sail
 
@@ -410,17 +418,21 @@ têrne- train
 
 kotsa- school subject, theme
 
-skor- city
+skor- city, large town, the more official or fancy term, has some semantic overlap with the upper half of tjereblujk
 
 fir- to sieze, to take hold of, to take possession of
 
+firkjats- to rape
+
 abralo- exceedingly good
 
-tâkamok- employment
+tâkamok- employment, a job
+
+tâkmoskja- employment, job, esp. a borting or 9-5 job
 
 kakots- biology
 
-tansera- far way
+tansera- far away
 
 hadi- cloth, garment (esp. undergarment)
 
@@ -514,7 +526,7 @@ tjaur- to learn quickly, to understand quickly, or easily
 
 ru- but
 
-was- to love, to care for, to nourish
+was- to love, to care for, to nourish, to serve (willingly)
 
 htubem- to like, to enjoy
 
@@ -607,6 +619,8 @@ en- large stone useable for knapping or grinding
 enwes- anvil
 
 sja- a repeated action
+
+isajsa, sjajsa, sjasja- to toil, to labor
 
 sajta- to pace, to make a repeated pointless motion
 

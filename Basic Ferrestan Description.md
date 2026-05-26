@@ -368,6 +368,8 @@ durbu- ship
 
 blu- ledge, balcony
 
+amlesk- flat, level, even
+
 nanrohkeldi- a tendancy
 
 krafke- permanent village, fortified place

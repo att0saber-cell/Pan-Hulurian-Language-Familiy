@@ -416,6 +416,8 @@ tjelm- to teach, to tell a story
 
 tjelmbik- coloq. to take notes, record, or write a letter
 
+hadjas- sash
+
 tekta- to pass
 
 tekwot- to pass on, to inherit
@@ -436,7 +438,7 @@ ment- trousers, leggings
 
 mjek- waist
 
-mikjek- belt
+mikkor- belt
 
 ike- to bend
 

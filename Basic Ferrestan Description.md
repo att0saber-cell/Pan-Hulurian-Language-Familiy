@@ -1,6 +1,5 @@
 
 # 1. Phonology
-# 1. Phonology
 
 *This is how the Phonology has been recorded (sounds in IPA)*
 

@@ -1,5 +1,6 @@
 
 # 1. Phonology
+# 1. Phonology
 
 *This is how the Phonology has been recorded (sounds in IPA)*
 
@@ -9,17 +10,19 @@ a
 
 b
  - /b/
- - /β/ when preceeding /r/ or /m/
+ - /β/ when preceeding r or m
  - /p/ when preceding a voiceles consonant, or in word final position
  - /bʲ/ before a circumflex
 
 c
- - /c͜ɕ/
- - /ʈʲ/ before circumflex
+ - /c/
+ - /ʈ͜ɕʲ/ before circumflex  
 
 d
  - /ð/
- - /d/ after /n/, /l/, or /h/
+ - /θ/ when following a /x/
+ - /d/ after /n/ or /ɫ/
+ - /ɖ/ after an h
  - /ʐʲ/ before a circumflex
 
 e 
@@ -30,7 +33,7 @@ f
  - /ɸ/ ~ /f/
  - /f/ before a s or h
  - /p/ when an intervocalic consonant
- - p͜fʲ befor a circumflex
+ - /p͜fʲ/ befor a circumflex
 
 h
  - /ꞎ/
@@ -90,10 +93,9 @@ w
 
 The circumflex palatalizes the initial consonants of a syllable in some way, and, when over a vowel, alters it into an ɪ-ending diphthong. The circumflex may be placed over a vowel or a j.
 
-Voiced consonants are devoiced when proceeding a voiceless one, and vice versa
+Voiced stops, fricatives, and affricates are devoiced when proceeding a voiceless one, and vice versa. The exception to this rule is the k, which always devoices the consonants it clusters with, kb is pronounced /xp/, kd is pronounced /kθ/
 
 Dipthongs: aj, oj,ej, uj, au, eu
-
 # 1.2 Mutation
 
 Often, to cope with there being too many vowels or consonants in a row between words, the second word will mutate. This can take the form of either metathesis or the adition of a j or w consonant.

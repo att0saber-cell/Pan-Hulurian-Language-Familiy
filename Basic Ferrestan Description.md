@@ -448,6 +448,8 @@ blate- to close
 
 kitaj, ktaje- to come
 
+tlams- thing
+
 te- to move closer, including functions of to come, to bring, to push together
 
 busk- to send, to inspire action, to command

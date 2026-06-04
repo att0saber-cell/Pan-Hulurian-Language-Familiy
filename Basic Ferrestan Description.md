@@ -1613,6 +1613,8 @@ mint- unilik
 
 numind- via, by way of, by the route of
 
+klw- for, looking for, searching for
+
 cs- that, this
 
 seuc- in the same way

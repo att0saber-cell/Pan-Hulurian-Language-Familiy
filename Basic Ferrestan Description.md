@@ -442,6 +442,8 @@ hadi- cloth, garment (esp. undergarment)
 
 ki- to open
 
+flid- to hunger
+
 blate- to close
 
 kitaj, ktaje- to come

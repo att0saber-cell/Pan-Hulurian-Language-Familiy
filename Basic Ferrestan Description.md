@@ -716,6 +716,10 @@ mjodur- outrigger canoe or ship
 
 wakan- double hulled canoe or ship
 
+birka- to want
+
+câ- to desire, to long for
+
 kim- mountain
 
 eda- horn

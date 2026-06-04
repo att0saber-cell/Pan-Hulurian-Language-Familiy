@@ -186,23 +186,58 @@ Proper nouns do not take an article. Rather, they take on inflectional endings d
 # 4 Verbs #
 ------
 
-Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker)
+Verbs have a similar sort of word, with a vowel base 'u' being followed with a consonant to indicate tense, and preceded by a consonant or syllable indicating mood, aspect, modality, and other such things. It seems that some of the prepositional prefixes for noun articles can be applied to this 'verb article', but I cannot figure out any rules for it as of yet. They follow the structure (preposition?) + (mood/aspect/modality marker) + u-base + (tense marker). The infinitive is never used except for a few exceptions, most uses for it are done by the present participle form. For dictionaries and glosses, the root word that the TAM particle is put before may be used.
 
 *Verb Particle Conjugation*
 
 | tense | simple | continuous | 
 |---|---|---|
 | present | u | uj |
-| past | un | ud |
-| future | um | uf |
+| past | `un` | u`d` |
+| future | `um` | `uf` |
 
- perfective formed with prefix f- 
+perfective formed with prefix `f`- 
  
-Imperitive formed with prefix ts- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
+Imperitive formed with prefix t`s`-, along with the suffixes -`we` or -`eu` on the base verb; -`we` used on verbs ending with vowels, -`eu` used on verbs not ending in vowels.
 
  ## 4.1 Conjugation of To Be
 
-The verb to be is one of the few irregular verbs in Lanôsoje. It is conjugated for gender (animate, inanimate), tense (past present, future), and has five paradigms (Simple/Qualitative, Continuous, Imperitave, Uncertain, Existential).
+The verb to be is one of the few irregular verbs in Lanôsoje. It is conjugated for gender (animate, inanimate), tense (past present, future), and has five paradigms (Simple/Qualitative, Continuous, Imperitave, Uncertain, Existential). The animate infiniive form is `kti` and the inanimate infinitive form is `usu`.
+
+*Simple/Qualitative*
+| | inanimate | animate |
+|---|---|---|
+| present | `wu` | `eto` |
+| past | `wus` | `stjo` |
+| future | `kalne` | `kalne` |
+
+*Continuous*
+| | inanimate | animate |
+|---|---|---|
+| present | `libtu` | `eut` |
+| past | `libstu` | `seut` |
+| future | `li` | `li` |
+
+*Imperative*
+| | inanimate | animate |
+|---|---|---|
+| present | `ktusme` | `ktu` |
+| past | `usme` | `usme` |
+| future | `ktus` | `li` |
+
+*Uncertain*
+| | inanimate | animate |
+|---|---|---|
+| present | `tku` | `tku` |
+| past | `stku/steku` | `stku/steku` |
+| future | `tibo` | `steuk` |
+
+*Existential*
+| | inanimate | animate |
+|---|---|---|
+| present | `wun` | `belno` |
+| past | `klawu` | `belnso` |
+| future | `kla` | `betlin` |
 
  ## 4.2 Question formation
 

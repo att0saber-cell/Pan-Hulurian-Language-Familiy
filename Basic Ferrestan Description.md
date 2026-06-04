@@ -198,13 +198,17 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
 
  perfective formed with prefix f- 
  
- imperitive formed with prefix ts- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
+Imperitive formed with prefix ts- + -we or -eu on the base verb; -we used on verbs ending with vowels, -eu used on verbs not ending in vowels
 
- ## 4.1 Question formation
+ ## 4.1 Conjugation of To Be
+
+The verb to be is one of the few irregular verbs in Lanôsoje. It is conjugated for gender (animate, inanimate), tense (past present, future), and has five paradigms (Simple/Qualitative, Continuous, Imperitave, Uncertain, Existential).
+
+ ## 4.2 Question formation
 
  Questions are formed by placing the particle Kwom or Ukmo in front of the TAM article. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as isu jesti, isu dest, isu dajke, isu sajto, isu njet, or the same phrases swapping isu for emisu are tacked onto the begining of a question, to make plain the fact that the following words are a question. Other participle phrases are used for the same purpose, often with verbs like permit, like, enjoy, want, see, or seek.
 
- ## 4.2 Negation
+ ## 4.3 Negation
 
  Negation of a sentence is done through a prefix on the TAM article. 
 

@@ -694,6 +694,8 @@ sikmojl- nepotism
 
 omli- smile
 
+kamto- to find
+
 wisat- a cold wind or current(esp from the west)
 
 krepf- berry

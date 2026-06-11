@@ -982,6 +982,8 @@ kjakto- sufficient
 
 stodritse- small
 
+mlojt- to thank
+
 fotwa- short
 
 stwano- narrow

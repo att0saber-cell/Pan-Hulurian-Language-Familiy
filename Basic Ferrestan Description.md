@@ -416,7 +416,7 @@ krofti- family
 
 odjonkroj- to study, especially relating to education
 
-skesa- teach, instruct, esp within an official setting
+skjano- teach, instruct, esp within an official setting
 
 tem- regardless, whether or not you like it or not, inevitably
 

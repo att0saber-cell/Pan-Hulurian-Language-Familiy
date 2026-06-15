@@ -410,6 +410,14 @@ blu- ledge, balcony
 
 amlesk- flat, level, even
 
+kbirnast- nothing
+
+krofti- family
+
+odjonkroj- study
+
+skesa- teach
+
 nanrohkeldi- a tendancy
 
 krafke- permanent village, fortified place
@@ -476,7 +484,7 @@ kilne- thick (thickly growing or placed together)
 
 erkki- plant fibers
 
-arek- stem, twig, small branch
+arek- s, twig, small branch
 
 ment- trousers, leggings
 
@@ -512,7 +520,7 @@ rona- six
 
 hi- seven
 
-erfo- eight (seen as 10, as the Lanôsta have a base eight numerical system.
+erfo- eight (seen as 10, as the Lanôsta have a base eight numerical sys.
 
 klem- constant, consistant, steady, reliable
 
@@ -1426,7 +1434,7 @@ daj- wise
 
 bwau- source, spring
 
-obajh- tent, temporary dwelling
+obajh- tent, porary dwelling
 
 bohaju- pit dwelling, pit house
 

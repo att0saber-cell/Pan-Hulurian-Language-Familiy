@@ -414,9 +414,11 @@ kbirnast- nothing
 
 krofti- family
 
-odjonkroj- study
+odjonkroj- to study, especially relating to education
 
-skesa- teach
+skesa- teach, instruct, esp within an official setting
+
+tem- regardless, whether or not you like it or not, inevitably
 
 nanrohkeldi- a tendancy
 

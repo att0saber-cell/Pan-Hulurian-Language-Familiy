@@ -486,7 +486,7 @@ kilne- thick (thickly growing or placed together)
 
 erkki- plant fibers
 
-arek- s, twig, small branch
+arek- small twig, small branch
 
 ment- trousers, leggings
 

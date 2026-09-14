@@ -112,19 +112,19 @@ Nouns are divided into two genders, animate and inanimate. Animate nouns include
 *Animate Article Declension*
 | case | definite singular | indefinite singular | definite plural | indefinite plural |
 |---|---|---|---|---|
-| nominative | o | e | au | eu |
-| accusative | os | es | au | eus |
-| dative | os | eh | aus | eu w(e)- |
-| comitative | oms | oms | aust | emsk |
-| genitive | ot | en | aute | eun |
+| nominative | `o` | `e` | `au` | `eu` |
+| accusative | `os` | `es` | `au` | `eus` |
+| dative | `os` | `eh` | `aus` | `eu w(e)-` |
+| comitative | `oms` | `oms` | `aust` | `emsk` |
+| genitive | `ot` | `en` | `aute` | `eun` |
 
 *Inamimate Article Declension*
 | case | definite singular | indefinite singular | definite plural | indefinite plural |
 |---|---|---|---|---|
-| nominative | a | i | aj | oj |
-| accusative | ats | î | â | ojts |
-| dative | ak | il | ojs | ojk |
-| genitive | ad | id | ajd | ojd |
+| nominative | `a` | `i` | `aj` | `oj` |
+| accusative | `ats` | `î` | `â` | `ojts` |
+| dative | `ak` | `il` | `ojs` | `ojk` |
+| genitive | `ad` | `id` | `ajd` | `ojd` |
 
 ## 2.3 Proper Nouns
 
@@ -134,11 +134,11 @@ Proper nouns do not take an article. Rather, they take on inflectional endings d
 
 | case | singular | plural | 
 |---|---|---|
-| ergative | -os | -e |
-| absolutive | - | -es |
-| dative | -(d)ji | -(i)tâ |
-| comitative | -sme, -osme | -sim |
-| genitive | -ot | -n(o) |
+| ergative | `-os` | `-e` |
+| absolutive | - | `-es` |
+| dative | `-(d)ji` | `-(i)tâ` |
+| comitative | `-sme`, `-osme` | `-sim` |
+| genitive | `-ot` | `-n(o)` |
 
 *3 Personal Pronouns*
 -------------------
@@ -146,38 +146,38 @@ Proper nouns do not take an article. Rather, they take on inflectional endings d
 *First Person Pronoun Declension*
 | case | singular | plural |
 |---|---|---|
-| ergative | ce/ceseu | jemu/jeum |
-| absolutive | cest | jom |
-| dative | co | jom |
-| comitative* | ceki | jomje |
-| genitive | ces | jomê |
+| ergative | `ce`, `ceseu` | `jemu`, `jeum` |
+| absolutive | `cest` | `jom` |
+| dative | `co` | `jom` |
+| comitative* | `ceki` | `jomje` |
+| genitive | `ces` | `jomê` |
 
 *Second Person Pronoun Declension*
 | case | singular | plural |
 |---|---|---|
-| ergative | muk | kno |
-| absolutive | kmusti | skanti |
-| dative | mukwo | kanwo |
-| comitative | kmukje | knoki |
-| genitive | musk | knosê |
+| ergative | `muk` | `kno` |
+| absolutive | `kmusti` | `skanti` |
+| dative | `mukwo` | `kanwo` |
+| comitative | `kmukje` | `knoki` |
+| genitive | `musk` | `knosê` |
 
 *Thrid Person Pronound Declensions (animate)*
 | case | singular | plural | 
 |---|---|---|
-| ergative | kjan | ika |
-| absolutive | kinast | kjasti |
-| dative | kjanwo | ikau |
-| comitative | kjane | ikau |
-| genitive | kjans | ikâ |
+| ergative | `kjan` | `ika` |
+| absolutive | `kinast` | `kjasti` |
+| dative | `kjanwo` | `ikau` |
+| comitative | `kjane` | `ikau` |
+| genitive | `kjans` | `ikâ` |
 
 *Thrid Person Pronound Declensions (inanimate)*
 | case | singular | plural | 
 |---|---|---|
-| nominative | eri | meroj |
-| accusative | erî | mrojts |
-| dative | rik | erojk |
-| genitive | mrid | mrojd |
-| locative | emir | mroli |
+| nominative | `eri` | `meroj` |
+| accusative | `erî` | `mrojts` |
+| dative | `rik` | `erojk` |
+| genitive | `mrid` | `mrojd` |
+| locative | `emir` | `mroli` |
 
 * comitative case fills the role of the predicate nominal and predicate adjective expressions
 
@@ -192,13 +192,13 @@ Verbs have a similar sort of word, with a vowel base 'u' being followed with a c
 
 | tense | simple | continuous | 
 |---|---|---|
-| present | u | uj |
-| past | `un` | u`d` |
+| present | `u` | `uj` |
+| past | `un` | `ud` |
 | future | `um` | `uf` |
 
 perfective formed with prefix `f`- 
  
-Imperitive formed with prefix t`s`-, along with the suffixes -`we` or -`eu` on the base verb; -`we` used on verbs ending with vowels, -`eu` used on verbs not ending in vowels.
+Imperitive formed with prefix `ts-`, along with the suffixes `-we` or `-eu` on the base verb; `-we` used on verbs ending with vowels, `-eu` used on verbs not ending in vowels.
 
  ## 4.1 Conjugation of To Be
 
@@ -241,7 +241,7 @@ The verb to be is one of the few irregular verbs in Lanôsoje. It is conjugated 
 
  ## 4.2 Question formation
 
- Questions are formed by placing the particle Kwom or Ukmo in front of the TAM article. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as isu jesti, isu dest, isu dajke, isu sajto, isu njet, or the same phrases swapping isu for emisu are tacked onto the begining of a question, to make plain the fact that the following words are a question. Other participle phrases are used for the same purpose, often with verbs like permit, like, enjoy, want, see, or seek.
+ Questions are formed by placing the particle `Kwom` or `Ukmo` in front of the TAM article. Wh-questions are formed with the wh-word as the object, and often when aswering them, the same word is made the subject. Most questions are merely a normal sentance with the question particle placed before the word. Quite often, a phrase such as `isu jesti`, `isu dest`, `isu dajke`, `isu sajto`, `isu njet`, or the same phrases swapping `isu` for` emisu` are tacked onto the begining of a question, to make plain the fact that the following words are a question. Other participle phrases are used for the same purpose, often with verbs like permit, like, enjoy, want, see, or seek.
 
  ## 4.3 Negation
 
@@ -249,18 +249,18 @@ The verb to be is one of the few irregular verbs in Lanôsoje. It is conjugated 
 
  # 5 Word Order #
 
-The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either -we or -eu in addition, as well as the past and present participle when they are used adjectivally.
+The word order can be either OVS or SVO. This I cannot see much rule for other than which seems more important to the speaker, or what comes most naturally to their mouth. Adjectives and adverbs do not seem to be differentiated much, and come directly after the word they modify. The imperative has a conjugation of either `-we` or `-eu` in addition, as well as the past and present participle when they are used adjectivally.
 
 
 # 6 Conjugation of root /daj/ -meaning wise- with an example preposition
 
-daj- wise adj (often used adverbially). Also seen in names or as a particle or interjection.
+`daj`- wise adj (often used adverbially). Also seen in names or as a particle or interjection.
 
-i dajke -tangible, or written wisdom; plur. oj dajke; acc. î dajke, ojts dajke; dat. ik dajke, ojk dajke; gen. id dajke, ojd dajke; ex. preposition prefix os- (meaning among) osi dajke, osoj dajke; def. forms a dajke (sing), aj dajke (plur); ats dajke, â dajke; ak dajke, ojs dajke; ad dajke, ajd dajke;
+`i dajke` -tangible, or written wisdom; plur. `oj dajke`; acc. `î dajke`, `ojts dajke`; dat. `ik dajke`, `ojk dajke`; gen. `id dajke`, `ojd dajke`; ex. preposition prefix `os-` (meaning among) `osi dajke`, `osoj dajke`; def. forms `a dajke` (sing), `aj dajke` (plur); `ats dajke`, `â dajke`; `ak dajke`, `ojs dajke`; `ad dajke`, `ajd dajke`;
 
-Wisdom could also be conjugated as a sapient noun, to refer to intangible or abstract wisdom, 
+Wisdom could also be conjugated as a sapient noun, to refer to intangible or abstract wisdom. In addition,, adding a circumflex onto the word creats a an occupational form, one who is wise.
 
-e dajkê -a wise person; plur. eu dajkê; acc. es dajkê, eus dajkê; dat. eh ajdkê, eu wajdkê; gen. en dajkê, eun dajkê; ex. preposition prefix os: ose dajkê, oseu dajkê; def. forms o dajkê (sing), au dajkê (plur); os dajkê, au dajkê; os dajkê, aus dajkê; ot ajdêk, aute dajkê;
+`e dajkê` -a wise person; plur. `eu dajkê`; acc. `es dajkê`, `eus dajkê`; dat. `eh ajdkê`, `eu wajdkê`; gen. `en dajkê`, `eun dajkê`; ex. preposition prefix `os-`; `ose dajkê`, `oseu dajkê`; def. forms `o dajkê` (sing), `au dajkê` (plur); `os dajkê`, `au dajkê`; `os dajkê`, `aus dajkê`; `ot dajkê`, `aute dajkê`;
 
 u dajke- to be wise, to act wisely; past un dajke; future um dajke; continuous uj dajke; past continuous ud dajke; future continuous uf dajke; perfective fu dajke, fun dajke (past), fum dajke (future), etc.; example mood prefix c(i)- (meaning want to) cu dajke, cuj dajke, cifu dajke, etc.
 

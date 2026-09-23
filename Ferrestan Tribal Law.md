@@ -1,8 +1,8 @@
 # Ferrestan Tribal Law #
--------------
+
 ## First Order Offenses ##
 *Statutes Concerning Murder*
-
+-------------
 If an adult is murdered, restitution of some kind must be made. It is reasonable to say that as an average, an adult can be expected to live 12 more years. Thus, for twelve years, the murderer must serve the family of the victim in unpaid labor.
 
 If the murderer is a child, next of adult kin will serve the sentence until the child completes the rite of passage. The murderer is required to attempt the rite of passage once per year after the age of 15. It is dishonorable to purposefully fail the rite of passage, and if the murderer does so they will lose the respect of their peers, their elders, and those younger than them. A woman is not to be selected to serve the sentence in the child's stead.

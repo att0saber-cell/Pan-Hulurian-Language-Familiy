@@ -18,3 +18,5 @@ If a murderer is a repeated murderer, they may be sent out of the clan with no p
 -----------
 
 *Statutes Concerning Theft*
+
+If an individual steals, they are required to give back what they stole, plus a restitution for the time they have deprived the victim of the item. For the first week, there is no additional restitution...

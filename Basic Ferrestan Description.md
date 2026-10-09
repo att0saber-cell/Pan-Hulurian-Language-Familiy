@@ -1672,7 +1672,7 @@ f- pervective marker
 
 h- should
 
-k- could
+k- practically could
 
 l- would
 
@@ -1682,7 +1682,7 @@ r- might not, may not
 
 n- probably
 
-s-
+s- theoretically could
 
 t- wisht to
 

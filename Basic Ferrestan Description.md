@@ -476,6 +476,8 @@ tekta- to pass
 
 tekwot- to pass on, to inherit
 
+stambwan- forever, always
+
 hafbe- fabric, to weave
 
 rokki- fur

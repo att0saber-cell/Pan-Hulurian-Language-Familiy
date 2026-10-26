@@ -450,6 +450,12 @@ tansera- far way
 
 hadi- cloth, garment (esp. undergarment)
 
+baltmik- difference
+
+baltmikne- differnt
+
+baltmikje- varrying, diverse
+
 ki- to open
 
 flid- to hunger
@@ -562,7 +568,9 @@ anklike- very bright, glorius, brilliant
 
 asinte- memory
 
-udri- wood
+udri- wood processed for the purpose of construction
+
+udrine- made in whole or in part of udri
 
 lwosk- neighbor
 
@@ -625,6 +633,8 @@ en- large stone useable for knapping or grinding
 enwes- anvil
 
 sja- a repeated action
+
+roheesja- a method, practice, especially a tradional one
 
 sajta- to pace, to make a repeated pointless motion
 

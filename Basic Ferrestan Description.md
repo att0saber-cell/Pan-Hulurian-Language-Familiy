@@ -848,6 +848,22 @@ teta- bed, place to sleep
 
 tjatse- a house or building (esp. made of stone)
 
+tamfujdre- a building
+
+ftilo- home
+
+warji- to extract (esp. from the inside of something)
+
+warjioskmat- to gut
+
+warjifajnd- to thresh
+
+tmaf- a system or pattern
+
+ud- a barrier or inconvenience, not impassible but inconvenient and an annoyance
+
+deld- deadfall
+
 kajt- the shorline
 
 kajtse- rocks in the sea, a rocky place along the shore, and unsafe place, trouble
